@@ -1,0 +1,50 @@
+html div#wrapper {
+  height: 100vh;
+  width: 1000px;
+  margin: 0 auto;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black; }
+  html div#wrapper div#welcome {
+    margin-top: 1em;
+    padding-left: 2.7em;
+    border-bottom: 1px solid black; }
+    html div#wrapper div#welcome p {
+      font-size: 16px; }
+  html div#wrapper ul {
+    border-bottom: 1px solid black;
+    text-align: center; }
+    html div#wrapper ul li {
+      display: inline;
+      padding-right: 3em; }
+  html div#wrapper ul.post-list {
+    width: 50%;
+    height: 30em;
+    text-align: left;
+    float: right;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 3em;
+    margin-right: 3em;
+    padding-top: 1em; }
+    html div#wrapper ul.post-list a.post-link {
+      color: black;
+      font-size: 0.7em; }
+    html div#wrapper ul.post-list li h2 {
+      margin-top: -0.5em; }
+    html div#wrapper ul.post-list li span.post-meta {
+      float: right;
+      margin-right: 3em;
+      margin-top: 1em; }
+    html div#wrapper ul.post-list li p {
+      text-align: justify;
+      margin-right: 3em; }
+  html div#wrapper div#bookcover {
+    height: 30em;
+    width: 35%;
+    border: 1px solid black;
+    margin-left: 3em;
+    margin-top: 53px; }
+
+/*# sourceMappingURL=main.css.map */

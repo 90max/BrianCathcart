@@ -1,0 +1,36 @@
+ <ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p>
+         {{ post.content | strip_html | truncatewords:25 }}
+      </p>
+    </li>
+  {% endfor %}
+</ul>
+
+ <!--<ul class="post-list">
+        {% for post in paginator.posts %}
+          {% if post.categories contains 'jekyll' %}
+          <li>
+
+            <img src="{{post.picture}}" style="height: 130px" align="right"/>
+<div id='post-content'>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            
+            <p>
+              {{ post.content | strip_html | truncatewords:40 }}
+            </p>
+</div>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>-->
