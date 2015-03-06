@@ -18,19 +18,14 @@ html div#wrapper {
       display: inline;
       padding-right: 3em; }
   html div#wrapper ul.post-list {
-    width: 50%;
+    width: 60%;
     height: 30em;
     text-align: left;
     float: right;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    border-top: 1px solid black;
-    margin-top: 3em;
-    margin-right: 3em;
-    padding-top: 1em; }
+    padding-left: 0; }
     html div#wrapper ul.post-list a.post-link {
       color: black;
-      font-size: 0.7em; }
+      font-size: 0.6em; }
     html div#wrapper ul.post-list li h2 {
       margin-top: -0.5em; }
     html div#wrapper ul.post-list li span.post-meta {
@@ -43,8 +38,30 @@ html div#wrapper {
   html div#wrapper div#bookcover {
     height: 30em;
     width: 35%;
-    border: 1px solid black;
     margin-left: 3em;
     margin-top: 53px; }
+    html div#wrapper div#bookcover img {
+      height: 30em;
+      width: 22em;
+      box-shadow: 1px 1px 10px black; }
+  html div#wrapper div#blogboard {
+    border: 1px solid black;
+    height: 30em;
+    width: 40em;
+    margin-top: 3em;
+    margin-right: 3em;
+    float: right; }
+    html div#wrapper div#blogboard h1#praise {
+      width: 35%;
+      height: 5em;
+      float: left;
+      margin: 12px;
+      border: 1px solid black; }
+    html div#wrapper div#blogboard h2#twitter {
+      width: 35%;
+      height: 3em;
+      clear: both;
+      margin: 12px;
+      border: 1px solid black; }
 
 /*# sourceMappingURL=main.css.map */
