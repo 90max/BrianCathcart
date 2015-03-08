@@ -1,108 +1,155 @@
-html div#wrapper {
-  height: 100vh;
-  width: 1000px;
-  margin: 0 auto;
-  border-top: 1px solid black;
-  border-left: 1px solid black;
-  border-right: 1px solid black; }
-  html div#wrapper div#welcome {
-    margin-top: 1em;
-    padding-left: 2.7em;
-    border-bottom: 1px solid black; }
-    html div#wrapper div#welcome p {
-      font-size: 16px; }
-  html div#wrapper ul {
-    text-align: center; }
-    html div#wrapper ul li {
-      display: inline;
-      padding-right: 3em; }
-  html div#wrapper ul.post-list {
-    width: 60%;
-    height: 25em;
-    text-align: left;
-    float: right;
-    padding-left: 0;
-    margin-top: 0.5em; }
-    html div#wrapper ul.post-list a.post-link {
-      color: black;
-      font-size: 0.6em; }
-    html div#wrapper ul.post-list li h2 {
+body {
+  background-color: #f2f2f2; }
+  body div#wrapper {
+    background-color: white;
+    height: 100vh;
+    width: 1070px;
+    margin: 0 auto; }
+    body div#wrapper ul#mainnav {
+      text-align: center;
+      height: 30px;
+      background-color: #054f86;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 3em;
+      padding-left: 0; }
+      body div#wrapper ul#mainnav li {
+        vertical-align: -webkit-baseline-middle;
+        color: white;
+        text-transform: uppercase;
+        font-family: 'Open Sans';
+        font-weight: 800;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 5px;
+        padding-bottom: 6px; }
+    body div#wrapper ul#secnav {
+      font-family: 'Open Sans';
+      height: 30px;
+      background-color: #e8e8e8;
       margin-bottom: 0;
-      margin-top: -0.5em;
-      border-radius: 5px;
-      width: 11.1em;
-      background-color: #f2f2f2;
-      padding-left: 6px;
-      padding-top: 0.6em; }
-    html div#wrapper ul.post-list li span.post-meta {
-      float: right;
-      margin-right: 1.5em;
-      margin-top: 1em; }
-    html div#wrapper ul.post-list li p {
-      margin-right: 3em;
-      margin-bottom: 0.1em;
-      border-radius: 3px;
-      background-color: #f2f2f2;
-      width: 23.8em;
-      padding-left: 8px;
-      padding-right: 8px;
-      padding-bottom: 8px;
+      padding-left: 0;
+      text-align: left;
+      padding-left: 50px;
       padding-top: 5px; }
-  html div#wrapper div#bookcover {
-    height: 30em;
-    width: 35%;
-    margin-left: 3em;
-    margin-top: 53px; }
-    html div#wrapper div#bookcover img {
-      height: 30em;
-      width: 22em;
-      box-shadow: 1px 1px 10px black;
-      margin-top: 1.5em; }
-    html div#wrapper div#bookcover p {
-      height: 30px; }
-  html div#wrapper div#blogboard {
-    border-radius: 5px;
-    height: 34.5em;
-    width: 41em;
-    margin-top: 3em;
-    margin-right: 3em;
-    float: right;
-    background-color: #cfe2dc; }
-    html div#wrapper div#blogboard h1#praise {
-      color: white;
-      font-size: 1.6em;
-      width: 35%;
-      height: 5em;
-      float: left;
-      margin: 12px;
-      border-radius: 3px;
-      padding-top: 0.7em;
-      padding-left: 0.7em;
-      background-color: #065183; }
-    html div#wrapper div#blogboard div#twitter {
-      width: 35%;
-      height: 4em;
-      float: left;
-      margin: 12px;
-      margin-top: 0px;
-      border-radius: 3px;
-      background-color: #313c5e; }
-      html div#wrapper div#blogboard div#twitter ul {
+      body div#wrapper ul#secnav li {
+        color: #2989c8;
+        font-weight: 600;
+        font-size: 13px; }
+    body div#wrapper div#welcome {
+      font-size: 32px;
+      border-top: 2px solid #00456e;
+      height: 60px;
+      text-align: center;
+      padding-top: 15px;
+      font-family: serif;
+      color: #00456e;
+      font-weight: 800; }
+    body div#wrapper div#currentdate {
+      padding-bottom: 1em; }
+      body div#wrapper div#currentdate span#spanDate {
+        margin-left: 34.5em; }
+    body div#wrapper ul {
+      text-align: center; }
+      body div#wrapper ul li {
         display: inline;
-        padding-left: 1em; }
-        html div#wrapper div#blogboard div#twitter ul li {
-          padding-right: 0; }
-          html div#wrapper div#blogboard div#twitter ul li img#twitterlogo {
-            height: 2.5em; }
-          html div#wrapper div#blogboard div#twitter ul li img#youtubelogo {
-            height: 3.5em; }
-    html div#wrapper div#blogboard div#pagination {
-      height: 3em;
-      width: 58%;
+        padding-right: 3em; }
+    body div#wrapper ul.post-list {
+      width: 60%;
+      height: 25em;
+      text-align: left;
       float: right;
-      background-color: #f2f2f2;
-      border-radius: 3px;
-      margin-right: 0.8em;
-      margin-top: 3.5em; }
+      padding-left: 0;
+      margin-top: 0.5em; }
+      body div#wrapper ul.post-list a.post-link {
+        color: black;
+        font-size: 0.6em; }
+      body div#wrapper ul.post-list li h2 {
+        margin-bottom: 0;
+        margin-top: -0.5em;
+        border-radius: 5px;
+        width: 12.13em;
+        background-color: #f2f2f2;
+        padding-left: 6px;
+        padding-top: 0.6em; }
+      body div#wrapper ul.post-list li span.post-meta {
+        float: right;
+        margin-right: 1.5em;
+        margin-top: 1em; }
+      body div#wrapper ul.post-list li p {
+        font-size: 13px;
+        margin-right: 3em;
+        margin-bottom: 0.1em;
+        border-radius: 3px;
+        background-color: #f2f2f2;
+        width: 27.98em;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-bottom: 25px;
+        padding-top: 5px; }
+    body div#wrapper div#bookcover {
+      height: 30em;
+      width: 35%;
+      margin-left: 3em; }
+      body div#wrapper div#bookcover img {
+        height: 31.3em;
+        width: 22em;
+        box-shadow: 1px 1px 10px black; }
+      body div#wrapper div#bookcover p {
+        height: 30px; }
+    body div#wrapper div#blogboard {
+      border-radius: 5px;
+      height: 31.3em;
+      width: 45em;
+      margin-right: 3em;
+      float: right;
+      background-color: #e8e8e8; }
+      body div#wrapper div#blogboard h1#praise {
+        color: white;
+        font-size: 1.6em;
+        width: 35%;
+        height: 5em;
+        float: left;
+        margin: 12px;
+        border-radius: 3px;
+        padding-top: 1.3em;
+        padding-left: 0.4em;
+        background-color: #065183; }
+      body div#wrapper div#blogboard div#twitter {
+        width: 35%;
+        height: 4em;
+        float: left;
+        margin: 12px;
+        margin-top: 0px;
+        border-radius: 3px;
+        background-color: #313c5e; }
+        body div#wrapper div#blogboard div#twitter ul {
+          display: inline;
+          padding-left: 1em; }
+          body div#wrapper div#blogboard div#twitter ul li {
+            padding-right: 0; }
+            body div#wrapper div#blogboard div#twitter ul li img#twitterlogo {
+              height: 2.5em; }
+            body div#wrapper div#blogboard div#twitter ul li img#youtubelogo {
+              height: 3.5em; }
+      body div#wrapper div#blogboard div#buythebook {
+        color: white;
+        text-align: center;
+        font-size: 1.4em;
+        width: 35%;
+        height: 1.5em;
+        float: left;
+        margin: 12px;
+        margin-top: 0px;
+        border-radius: 3px;
+        background-color: #313c5e; }
+      body div#wrapper div#blogboard div#pagination {
+        height: 3em;
+        width: 57.7%;
+        float: right;
+        background-color: #f2f2f2;
+        border-radius: 3px;
+        margin-right: 1em;
+        margin-top: 1.2em; }
 
 /*# sourceMappingURL=main.css.map */
