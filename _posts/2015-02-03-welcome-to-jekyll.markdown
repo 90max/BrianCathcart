@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test"
+title:  "Lorem ipsum dolor sit amet"
 date:   2015-02-03 15:10:46
 categories: jekyll update
 ---
