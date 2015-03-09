@@ -12,7 +12,7 @@ body{
 			background-color: #054f86;
 			margin-left: 10px;
 			margin-right: 10px;
-			margin-bottom: 3em;
+			margin-bottom: 2.3em;
 			padding-left: 0;
 			li{
 				vertical-align: -webkit-baseline-middle;
@@ -82,34 +82,35 @@ body{
 			margin-top: 0.5em;
 
 			a.post-link{
-				color: black;
+				color: #00456e;
 				font-size: 0.6em;
 			}
 
 			li{
 				h2{
-
+					
 					margin-bottom: 0;
 					margin-top: -0.5em;
-					border-radius: 5px;
+					/*border-radius: 5px;*/
 					width: 12.13em;
-					background-color: #f2f2f2;
-					padding-left: 6px;
+					background-color: #d1d1d1;
+					padding-left: 13px;
 					padding-top: 0.6em;
+
 				}
 				span.post-meta{
 					float: right;
-					margin-right: 1.5em;
+					margin-right: 2.3em;
 					margin-top: 1em;
 				}
 				p{
 					font-size: 13px;
 					margin-right: 3em;
 					margin-bottom: 0.1em;
-					border-radius: 3px;
-					background-color: #f2f2f2;
+					/*border-radius: 3px;*/
+					background-color: #d1d1d1;
 					width: 27.98em;
-					padding-left: 8px;
+					padding-left: 15px;
 					padding-right: 8px;
 					padding-bottom: 25px;
 					padding-top: 5px;
@@ -163,7 +164,7 @@ body{
 					margin: 12px;
 					margin-top: 0px;
 					border-radius: 3px;
-					background-color: #313c5e;
+					background-color: #00456e;
 						ul{
 							display: inline;
 							padding-left: 1em;
@@ -191,19 +192,30 @@ body{
 					margin: 12px;
 					margin-top: 0px;
 					border-radius: 3px;
-					background-color: #313c5e;
+					background-color: #00456e;
 				}
 
 				div#pagination{
 					height: 3em;
 					width: 57.7%;
 					float: right;
-					background-color: #f2f2f2;
+					background-color: #d1d1d1;
 					border-radius: 3px;
 					margin-right: 1em;
 					margin-top: 1.2em;
-
+					img{
+						margin-left: 80px;
+						margin-top: 4px;
+					}
 				}
+		}
+
+		div#scrolldown{
+			margin-left: 35em;
+			img{
+				height: 60px;
+				margin-top: 8px;
+			}
 		}
 
 	}
