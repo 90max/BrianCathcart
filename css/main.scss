@@ -57,7 +57,7 @@ body{
 		div#currentdate{
 			padding-bottom: 1em;
 			span#spanDate{
-				margin-left: 34.5em;
+				margin-left: 34em;
 			}
 		}
 
@@ -123,12 +123,13 @@ body{
 		div#bookcover{
 			height: 30em;
 			width: 35%;
-			margin-left: 3em;
+			margin-left: 4em;
 
 			img{
-				height: 31.3em;
-				width: 22em;
+				height: 27.5em;
+				width: 19em;
 				box-shadow: 1px 1px 10px black;
+				margin-top: 0.8em;
 
 			}
 			p{
@@ -137,11 +138,24 @@ body{
 			}
 		}
 
+		div#retailers{
+			ul{
+				li{
+					img#wordery{
+						height: 32px;
+					}
+					img#amazon{
+						height: 30px;
+					}
+				}
+			}
+		}
+
 		div#blogboard{
 			border-radius: 5px;
 			height: 31.3em;
 			width: 45em;
-			margin-right: 3em;
+			margin-right: 3.5em;
 			float: right;
 			background-color: #e8e8e8;
 				h1#praise{
@@ -154,7 +168,7 @@ body{
 					border-radius: 3px;
 					padding-top: 1.3em;
 					padding-left: 0.4em;
-					background-color: #065183;
+					background-color: #013756;
 				}
 
 				div#twitter{
@@ -176,6 +190,9 @@ body{
 								img#youtubelogo{
 									height: 3.5em;
 								}
+								img#facebooklogo{
+									height: 2.4em;
+								}
 							}
 						}
 
@@ -192,7 +209,44 @@ body{
 					margin: 12px;
 					margin-top: 0px;
 					border-radius: 3px;
-					background-color: #00456e;
+					/*background-color: #2989c8;*/
+					img{
+						width: 250px;
+						height: 70px;
+						margin-left: -.7em;
+					}
+				}
+
+				div#hughvideo{
+					text-align: center;
+					color: white;
+					text-align: center;
+					font-size: 1em;
+					width: 35%;
+					height: 3em;
+					float: left;
+					margin: 12px;
+					margin-top: 5.2em;
+					border-radius: 3px;
+					background-color: #2989c8;
+					span#click{
+						font-weight: 600;
+					}
+
+				}
+
+				div#retailer{
+					text-align: center;
+					font-size: 1em;
+					width: 35%;
+					height: 3em;
+					float: left;
+					margin: 12px;
+					border-radius: 3px;
+
+					img{
+						width: 11em;
+					}
 				}
 
 				div#pagination{
@@ -211,10 +265,10 @@ body{
 		}
 
 		div#scrolldown{
-			margin-left: 35em;
+			margin-left: 36em;
 			img{
-				height: 60px;
-				margin-top: 8px;
+				height: 50px;
+				margin-top: -1em;
 			}
 		}
 
