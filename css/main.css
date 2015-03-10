@@ -36,8 +36,24 @@ body {
         color: #2989c8;
         font-weight: 600;
         font-size: 13px; }
+        body div#wrapper ul#secnav li img#twittericon {
+          margin-right: 3.8em;
+          margin-top: -.2em;
+          padding-top: .09em; }
+        body div#wrapper ul#secnav li img#facebookicon {
+          height: 1.8em;
+          float: right;
+          margin-right: .5em;
+          padding-top: .1em;
+          padding-bottom: .07em;
+          margin-top: -.07em; }
+        body div#wrapper ul#secnav li img#youtubeicon {
+          height: 2.07em;
+          float: right;
+          margin-right: .3em;
+          margin-top: -.12em; }
     body div#wrapper div#welcome {
-      font-size: 32px;
+      font-size: 30px;
       border-top: 2px solid #00456e;
       height: 60px;
       text-align: center;
@@ -46,14 +62,17 @@ body {
       color: #00456e;
       font-weight: 800; }
     body div#wrapper div#currentdate {
-      padding-bottom: 1em; }
-      body div#wrapper div#currentdate span#spanDate {
+      padding-bottom: 1em;
+      /*span#spanDate{
+      	margin-left: 34em;
+      }*/ }
+      body div#wrapper div#currentdate span {
         margin-left: 34em; }
     body div#wrapper ul {
       text-align: center; }
       body div#wrapper ul li {
         display: inline;
-        padding-right: 3em; }
+        padding-right: 2em; }
     body div#wrapper ul.post-list {
       width: 60%;
       height: 25em;
@@ -95,13 +114,21 @@ body {
         height: 27.5em;
         width: 19em;
         box-shadow: 1px 1px 10px black;
-        margin-top: 0.8em; }
+        margin-top: 0.2em; }
       body div#wrapper div#bookcover p {
         height: 30px; }
-    body div#wrapper div#retailers ul li img#wordery {
-      height: 32px; }
-    body div#wrapper div#retailers ul li img#amazon {
-      height: 30px; }
+    body div#wrapper div#retailers ul {
+      padding-left: 0; }
+      body div#wrapper div#retailers ul li {
+        padding-right: 0; }
+        body div#wrapper div#retailers ul li img#faber {
+          height: 12px;
+          padding-right: 5px; }
+        body div#wrapper div#retailers ul li img#amazon {
+          height: 30px;
+          margin-top: .7em;
+          padding-left: 5px;
+          margin-right: 5px; }
     body div#wrapper div#blogboard {
       border-radius: 5px;
       height: 31.3em;
@@ -110,15 +137,15 @@ body {
       float: right;
       background-color: #e8e8e8; }
       body div#wrapper div#blogboard h1#praise {
+        text-align: center;
         color: white;
-        font-size: 1.6em;
+        font-size: 1.5em;
         width: 35%;
-        height: 5em;
+        height: 4em;
         float: left;
         margin: 12px;
         border-radius: 3px;
-        padding-top: 1.3em;
-        padding-left: 0.4em;
+        padding-top: 1em;
         background-color: #013756; }
       body div#wrapper div#blogboard div#twitter {
         width: 35%;
@@ -130,7 +157,8 @@ body {
         background-color: #00456e; }
         body div#wrapper div#blogboard div#twitter ul {
           display: inline;
-          padding-left: 1em; }
+          padding-left: 1em;
+          display: none; }
           body div#wrapper div#blogboard div#twitter ul li {
             padding-right: 0; }
             body div#wrapper div#blogboard div#twitter ul li img#twitterlogo {
@@ -163,11 +191,19 @@ body {
         height: 3em;
         float: left;
         margin: 12px;
-        margin-top: 5.2em;
+        margin-top: 1.7em;
         border-radius: 3px;
         background-color: #2989c8; }
         body div#wrapper div#blogboard div#hughvideo span#click {
           font-weight: 600; }
+      body div#wrapper div#blogboard div#hughimg {
+        text-align: center; }
+        body div#wrapper div#blogboard div#hughimg img {
+          height: 18em;
+          padding-left: 26px;
+          padding-right: 26px;
+          background-color: #d1d1d1;
+          margin-right: 8px; }
       body div#wrapper div#blogboard div#retailer {
         text-align: center;
         font-size: 1em;
