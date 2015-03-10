@@ -62,12 +62,11 @@ body {
       color: #00456e;
       font-weight: 800; }
     body div#wrapper div#currentdate {
+      text-align: center;
       padding-bottom: 1em;
       /*span#spanDate{
       	margin-left: 34em;
       }*/ }
-      body div#wrapper div#currentdate span {
-        margin-left: 34em; }
     body div#wrapper ul {
       text-align: center; }
       body div#wrapper ul li {
@@ -111,13 +110,14 @@ body {
       width: 35%;
       margin-left: 4em; }
       body div#wrapper div#bookcover img {
-        height: 27.5em;
+        height: 28.2em;
         width: 19em;
         box-shadow: 1px 1px 10px black;
         margin-top: 0.2em; }
       body div#wrapper div#bookcover p {
         height: 30px; }
     body div#wrapper div#retailers ul {
+      margin-top: -.8em;
       padding-left: 0; }
       body div#wrapper div#retailers ul li {
         padding-right: 0; }
@@ -137,6 +137,7 @@ body {
       float: right;
       background-color: #e8e8e8; }
       body div#wrapper div#blogboard h1#praise {
+        font-family: 'Open Sans';
         text-align: center;
         color: white;
         font-size: 1.5em;
@@ -146,7 +147,8 @@ body {
         margin: 12px;
         border-radius: 3px;
         padding-top: 1em;
-        background-color: #013756; }
+        background-color: #013756;
+        margin-bottom: 6px; }
       body div#wrapper div#blogboard div#twitter {
         width: 35%;
         height: 4em;
@@ -183,15 +185,17 @@ body {
           height: 70px;
           margin-left: -.7em; }
       body div#wrapper div#blogboard div#hughvideo {
+        padding-top: 2px;
+        font-family: 'Open Sans';
         text-align: center;
         color: white;
         text-align: center;
         font-size: 1em;
         width: 35%;
-        height: 3em;
+        height: 4.7em;
         float: left;
         margin: 12px;
-        margin-top: 1.7em;
+        margin-top: 6px;
         border-radius: 3px;
         background-color: #2989c8; }
         body div#wrapper div#blogboard div#hughvideo span#click {
@@ -229,6 +233,6 @@ body {
       margin-left: 36em; }
       body div#wrapper div#scrolldown img {
         height: 50px;
-        margin-top: -1em; }
+        margin-top: .1em; }
 
 /*# sourceMappingURL=main.css.map */
