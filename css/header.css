@@ -1,0 +1,75 @@
+.nav-edit ul#secnav {
+  display: none; }
+.nav-edit ul#mainnav {
+  background-color: black; }
+
+ul#mainnav {
+  text-align: center;
+  height: 30px;
+  background-color: #054f86;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 2.3em;
+  padding-left: 0; }
+  ul#mainnav li {
+    vertical-align: -webkit-baseline-middle;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-weight: 800;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 6px; }
+
+ul#secnav {
+  font-family: 'Open Sans';
+  height: 30px;
+  background-color: #e8e8e8;
+  margin-bottom: 0;
+  padding-left: 0;
+  text-align: left;
+  padding-left: 50px;
+  padding-top: 5px; }
+  ul#secnav li {
+    color: #2989c8;
+    font-weight: 600;
+    font-size: 13px; }
+    ul#secnav li img#twittericon {
+      margin-right: 3.8em;
+      margin-top: -.2em;
+      padding-top: .09em; }
+    ul#secnav li img#facebookicon {
+      height: 1.8em;
+      float: right;
+      margin-right: .5em;
+      padding-top: .1em;
+      padding-bottom: .07em;
+      margin-top: -.07em; }
+    ul#secnav li img#youtubeicon {
+      height: 2.07em;
+      float: right;
+      margin-right: .3em;
+      margin-top: -.12em; }
+
+div#welcome {
+  font-size: 30px;
+  border-top: 2px solid #00456e;
+  height: 60px;
+  text-align: center;
+  padding-top: 15px;
+  font-family: serif;
+  color: #00456e;
+  font-weight: 800; }
+
+div#currentdate {
+  text-align: center;
+  padding-bottom: 1em; }
+
+ul {
+  text-align: center; }
+  ul li {
+    display: inline;
+    padding-right: 2em; }
+
+/*# sourceMappingURL=header.css.map */

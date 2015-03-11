@@ -4,39 +4,26 @@
     {% include head.html %}
 
     <body>
+      
       {% include header.html %}
-
-      <div id='blogboard'>
-          <h1 id='praise'>What people are saying</h1>
-          
-      {% include blog.html %}
-          <!--<div id='twitter'>
-            <ul>
-              <li><img id='twitterlogo' src='/imgs/Twitter-icon.png' alt='twitter'></li>
-              <li><img id='youtubelogo' src='/imgs/Youtube-icon.png' alt='youtube'></li>
-              <li><img id='facebooklogo' src='/imgs/facebook-icon.png' alt='facebook'></li>
-            </ul>
-          </div>-->
-          <div id='hughimg'>
-            <img src='/imgs/Hugh_studio.jpg' alt='hugh'>
-          </div>
-          <div id='hughvideo'>
-            <span id='click'>Click below</span> to hear Hugh Grant read Wellington's famous Waterloo Dispatch
-          </div>
-          <div id='pagination'>
-            <img src='/imgs/pagination.png'>
-          </div>
-      </div>
-
+      {% include blogBoard.html %}
+      {% include praise.html %}
       {% include cover.html %}
 
       <div id='scrolldown'>
         <img src='/imgs/scroll-round.png' alt='scroll-down'>
       </div>
 
-      {% include footer.html %}
+      <div id='dispatchvideo'>
+        <div id='the-dispatch'>
+          <div id='the-dispatch-inner'></div>
+        </div>
+        {% include footer.html %}
+      </div>
+
       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+      <script src='/js/smoothscroll.js'></script>
 
     </body>
   </div>

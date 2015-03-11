@@ -1,0 +1,38 @@
+		div#bookcover{
+			height: 30em;
+			width: 35%;
+			margin-left: 2em;
+
+			img{
+				height: 28.2em;
+				width: 19em;
+				box-shadow: 1px 1px 10px black;
+				margin-top: 0.45em;
+
+			}
+			p{
+				height: 30px
+
+			}
+		}
+
+		div#retailers{
+			ul{
+				margin-top: -.8em;
+				padding-left: 0;
+				margin-left: 0em;
+				li{
+					padding-right: 0;
+					img#faber{
+						height: 12px;
+						padding-right: 5px;
+					}
+					img#amazon{
+						height: 30px;
+						margin-top: .7em;
+						padding-left: 5px;
+						margin-right: 5px;
+					}
+				}
+			}
+		}

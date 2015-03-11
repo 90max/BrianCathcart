@@ -1,0 +1,43 @@
+div#whatpeoplesay {
+  height: 31.4em;
+  width: 15em;
+  background-color: #e8e8e8;
+  float: right; }
+  div#whatpeoplesay h4#praise {
+    font-family: 'Open Sans';
+    text-align: center;
+    color: white;
+    height: 4em;
+    float: left;
+    margin: 12px;
+    border-radius: 3px;
+    padding-top: 1em;
+    background-color: #013756;
+    margin-bottom: 6px;
+    margin-top: 15px;
+    margin-right: 0em;
+    padding: 15px; }
+  div#whatpeoplesay div#quote1 {
+    width: 14.2em;
+    height: 10.3em;
+    float: left;
+    margin: 12px;
+    border-radius: 3px;
+    padding-top: 1em;
+    background-color: #d1d1d1;
+    margin-bottom: 6px;
+    margin-top: 15px;
+    margin-right: 0em; }
+  div#whatpeoplesay div#quote2 {
+    width: 14.2em;
+    height: 10.97em;
+    float: left;
+    margin: 12px;
+    border-radius: 3px;
+    padding-top: 1em;
+    background-color: #d1d1d1;
+    margin-bottom: 6px;
+    margin-top: 15px;
+    margin-right: 0em; }
+
+/*# sourceMappingURL=praise.css.map */
