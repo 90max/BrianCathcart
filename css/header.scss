@@ -1,21 +1,14 @@
-		.nav-edit{
-			ul#secnav{
-				display: none;
-			}
-			ul#mainnav{
-				background-color: black;
-			}
-		}
 
+		
 		.nav{
+
 			ul#mainnav{
 				text-align: center;
 				height: 30px;
 				background-color: #054f86;
-				margin-left: 10px;
-				margin-right: 10px;
 				margin-bottom: 2.3em;
 				padding-left: 0;
+				box-shadow: -.2px 2.5px 5px;
 				li{
 					vertical-align: -webkit-baseline-middle;
 					color: white;
@@ -83,6 +76,22 @@
 				}
 			}
 		}
+
+		.nav-edit{
+			
+				ul#mainnav{
+					position: fixed;
+					width: 88.85%;
+					margin: 0 auto;
+					margin-top: -13.5em;
+
+				}
+				div#buffer{
+					margin-bottom: 4.6em;
+				}
+		}
+
+
 
 			/*ul{
 				text-align: center;

@@ -1,7 +1,12 @@
-$(window).scroll(function() {
-    if ($(".nav").offset().top > 50) {
+$(window).scroll(function() {    
+
+
+
+    var scroll = $(window).scrollTop();
+
+    if (scroll >= 124) {
         $(".nav").addClass("nav-edit");
-    } else {
+    }else {
         $(".nav").removeClass("nav-edit");
     }
 });
