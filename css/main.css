@@ -2,9 +2,27 @@ body {
   background-color: #f2f2f2; }
   body div#wrapper {
     background-color: white;
-    height: 100vh;
     width: 1200px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    		/*div#dispatchvideo{
+    			height: 100vh;
+    			background-color: white;
+    			div#the-dispatch{
+    				background-color: #d1d1d1;
+    				margin: 0 auto;
+    				height: inherit;
+    				margin-left: 2em;
+    				margin-right: 2em;
+    							div#the-dispatch-inner{
+    				width: 800px;
+    				height: inherit;
+    				margin: 0 auto;
+    				background-color: white;
+    				}			
+    
+    			}
+    
+    		}*/ }
     body div#wrapper div#scrolldown {
       text-align: center; }
       body div#wrapper div#scrolldown img {
@@ -12,19 +30,5 @@ body {
         margin-top: .1em;
         padding-bottom: .6em;
         margin-bottom: .6em; }
-    body div#wrapper div#dispatchvideo {
-      height: 100vh;
-      background-color: white; }
-      body div#wrapper div#dispatchvideo div#the-dispatch {
-        background-color: #d1d1d1;
-        margin: 0 auto;
-        height: inherit;
-        margin-left: 2em;
-        margin-right: 2em; }
-        body div#wrapper div#dispatchvideo div#the-dispatch div#the-dispatch-inner {
-          width: 800px;
-          height: inherit;
-          margin: 0 auto;
-          background-color: white; }
 
 /*# sourceMappingURL=main.css.map */

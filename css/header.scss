@@ -19,6 +19,12 @@
 					padding-left: 20px;
 					padding-top: 5px;
 					padding-bottom: 6px;
+						a{
+							color: white;
+						}
+						a:hover{
+							color: white;
+						}
 				}
 			}
 
@@ -89,6 +95,37 @@
 				div#buffer{
 					margin-bottom: 4.6em;
 				}
+		}
+
+		.sec-nav{
+				ul#mainnav{
+				position: fixed;
+				width: 88.85%;
+				margin: 0 auto; 
+				text-align: center;
+				height: 30px;
+				background-color: #054f86;
+				margin-bottom: 2.3em;
+				padding-left: 0;
+				box-shadow: -.2px 2.5px 5px;
+				li{
+					vertical-align: -webkit-baseline-middle;
+					color: white;
+					text-transform: uppercase;
+					font-family: 'Open Sans';
+					font-weight: 800;
+					padding-right: 20px;
+					padding-left: 20px;
+					padding-top: 5px;
+					padding-bottom: 6px;
+						a{
+							color: white;
+						}
+						a:hover{
+							color: white;
+						}
+				}
+			}
 		}
 
 

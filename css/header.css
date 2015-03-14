@@ -15,6 +15,10 @@
     padding-left: 20px;
     padding-top: 5px;
     padding-bottom: 6px; }
+    .nav ul#mainnav li a {
+      color: white; }
+    .nav ul#mainnav li a:hover {
+      color: white; }
 .nav ul#secnav {
   font-family: 'Open Sans';
   height: 30px;
@@ -64,6 +68,31 @@
   margin-top: -13.5em; }
 .nav-edit div#buffer {
   margin-bottom: 4.6em; }
+
+.sec-nav ul#mainnav {
+  position: fixed;
+  width: 88.85%;
+  margin: 0 auto;
+  text-align: center;
+  height: 30px;
+  background-color: #054f86;
+  margin-bottom: 2.3em;
+  padding-left: 0;
+  box-shadow: -.2px 2.5px 5px; }
+  .sec-nav ul#mainnav li {
+    vertical-align: -webkit-baseline-middle;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-weight: 800;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 6px; }
+    .sec-nav ul#mainnav li a {
+      color: white; }
+    .sec-nav ul#mainnav li a:hover {
+      color: white; }
 
 			/*ul{
 				text-align: center;
