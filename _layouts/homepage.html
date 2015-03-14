@@ -4,26 +4,23 @@
     {% include head.html %}
 
     <body>
-      
+
       {% include header.html %}
       {% include blogBoard.html %}
       {% include praise.html %}
       {% include cover.html %}
 
       <div id='scrolldown'>
-        <img src='/imgs/scroll-round.png' alt='scroll-down'>
+        <a href='#linc'><img src='/imgs/scroll-round.png' alt='scroll-down'></a>
       </div>
 
-      <div id='dispatchvideo'>
-        <div id='the-dispatch'>
-          <div id='the-dispatch-inner'></div>
-        </div>
-        {% include footer.html %}
-      </div>
+      {% include video.html %}
 
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
       <script src='/js/smoothscroll.js'></script>
+      <script src='/js/headercollapse.js'></script>
 
     </body>
   </div>
