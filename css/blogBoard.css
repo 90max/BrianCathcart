@@ -1,0 +1,93 @@
+div#blogboard {
+  height: 31.4em;
+  width: 45em;
+  margin-right: 2em;
+  float: right;
+  background-color: #e8e8e8; }
+  div#blogboard div#twitter {
+    width: 35%;
+    height: 4em;
+    float: left;
+    margin: 12px;
+    margin-top: 0px;
+    border-radius: 3px;
+    background-color: #00456e; }
+    div#blogboard div#twitter ul {
+      display: inline;
+      padding-left: 1em;
+      display: none; }
+      div#blogboard div#twitter ul li {
+        padding-right: 0; }
+        div#blogboard div#twitter ul li img#twitterlogo {
+          height: 2.5em;
+          margin-top: -.28em; }
+        div#blogboard div#twitter ul li img#youtubelogo {
+          height: 3.5em;
+          margin-top: -.27em; }
+        div#blogboard div#twitter ul li img#facebooklogo {
+          height: 2.4em;
+          margin-top: -.15em; }
+  div#blogboard div#buythebook {
+    color: white;
+    text-align: center;
+    font-size: 1.4em;
+    width: 35%;
+    height: 1.5em;
+    float: left;
+    margin: 12px;
+    margin-top: 0px;
+    border-radius: 3px;
+    /*background-color: #2989c8;*/ }
+    div#blogboard div#buythebook img {
+      width: 250px;
+      height: 70px;
+      margin-left: -.7em; }
+  div#blogboard div#hughvideo {
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    width: 35%;
+    height: 5.1em;
+    float: left;
+    border-radius: 3px;
+    background-color: #2989c8;
+    margin-left: 1.1em; }
+    div#blogboard div#hughvideo span#click {
+      font-weight: 600; }
+  div#blogboard div#hughimg {
+    text-align: center; }
+    div#blogboard div#hughimg img {
+      margin-top: 1em;
+      margin-bottom: 1em;
+      height: 23.35em;
+      background-color: #d1d1d1;
+      margin-right: 8px;
+      margin-left: .5em;
+      border-radius: 3px; }
+  div#blogboard div#retailer {
+    text-align: center;
+    font-size: 1em;
+    width: 35%;
+    height: 3em;
+    float: left;
+    margin: 12px;
+    border-radius: 3px; }
+    div#blogboard div#retailer img {
+      width: 11em; }
+  div#blogboard div#pagination {
+    text-align: center;
+    height: 3em;
+    width: 57.7%;
+    float: right;
+    background-color: #d1d1d1;
+    border-radius: 3px;
+    margin-right: 1.02em;
+    margin-top: 1.2em; }
+    div#blogboard div#pagination img {
+      height: 2.1em;
+      margin-top: .4em; }
+
+/*# sourceMappingURL=blogBoard.css.map */

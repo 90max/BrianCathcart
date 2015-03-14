@@ -1,16 +1,19 @@
- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<link rel='stylesheet' href='/css/blog.css'>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-           {{ post.content | strip_html | truncatewords:18 }}
-        </p>
-      </li>
-    {% endfor %}
+ <ul class="post-list">
+  <div id='authorsblog'><h4>The author's blog</h4></div>  
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p>
+             {{ post.content | strip_html | truncatewords:18 }}
+          </p>
+        </li>
+      {% endfor %}
 </ul>
 
 

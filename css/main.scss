@@ -3,320 +3,40 @@ body{
 	div#wrapper{
 		background-color: white;
 		height: 100vh;
-		width: 1070px;
-		margin: 0 auto;
-
-		ul#mainnav{
-			text-align: center;
-			height: 30px;
-			background-color: #054f86;
-			margin-left: 10px;
-			margin-right: 10px;
-			margin-bottom: 2.3em;
-			padding-left: 0;
-			li{
-				vertical-align: -webkit-baseline-middle;
-				color: white;
-				text-transform: uppercase;
-				font-family: 'Open Sans';
-				font-weight: 800;
-				padding-right: 20px;
-				padding-left: 20px;
-				padding-top: 5px;
-				padding-bottom: 6px;
-			}
-		}
-
-		ul#secnav{
-			font-family: 'Open Sans';
-			height: 30px;
-			background-color: #e8e8e8;
-			margin-bottom: 0;
-			padding-left: 0;
-			text-align: left;
-			padding-left: 50px;
-			padding-top: 5px;
-			li{
-				color: #2989c8;
-				font-weight: 600;
-				font-size: 13px;
-				img#twittericon{
-					margin-right: 3.8em;
-					margin-top: -.2em;
-					padding-top: .09em;
-				}
-				img#facebookicon{
-					height: 1.8em;
-					float: right;
-					margin-right: .5em;
-					padding-top: .1em;
-					padding-bottom: .07em;
-					margin-top: -.07em;
-				}
-				img#youtubeicon{
-					height: 2.07em;
-					float: right;
-					margin-right: .3em;
-					margin-top: -.12em;
-				}
-			}
-		}
-
-		div#welcome{
-			font-size: 30px;
-			border-top: 2px solid #00456e; 
-			height: 60px;
-			text-align: center;
-			padding-top: 15px;
-			font-family: serif;
-			color: #00456e;
-			font-weight: 800;
-		}
-
-		div#currentdate{
-			text-align: center;
-			padding-bottom: 1em;
-			/*span#spanDate{
-				margin-left: 34em;
-			}*/
-			span{
-			}
-		}
-
-		ul{
-			text-align: center;
-
-			
-
-			li{
-				display: inline;
-				padding-right: 2em;
-
-			}
-		}
-
-		ul.post-list{
-			width: 60%;
-			height: 25em;
-			text-align: left;
-			float: right;
-			padding-left: 0;
-			margin-top: 0.5em;
-
-			a.post-link{
-				color: #00456e;
-				font-size: 0.6em;
-			}
-
-			li{
-				h2{
-					
-					margin-bottom: 0;
-					margin-top: -0.5em;
-					/*border-radius: 5px;*/
-					width: 12.13em;
-					background-color: #d1d1d1;
-					padding-left: 13px;
-					padding-top: 0.6em;
-
-				}
-				span.post-meta{
-					float: right;
-					margin-right: 2.3em;
-					margin-top: 1em;
-				}
-				p{
-					font-size: 13px;
-					margin-right: 3em;
-					margin-bottom: 0.1em;
-					/*border-radius: 3px;*/
-					background-color: #d1d1d1;
-					width: 27.98em;
-					padding-left: 15px;
-					padding-right: 8px;
-					padding-bottom: 25px;
-					padding-top: 5px;
+		width: 1200px;
+		margin: 0 auto;		
 
 
-				}
-			}
-		}
-
-		div#bookcover{
-			height: 30em;
-			width: 35%;
-			margin-left: 4em;
-
-			img{
-				height: 28.2em;
-				width: 19em;
-				box-shadow: 1px 1px 10px black;
-				margin-top: 0.2em;
-
-			}
-			p{
-				height: 30px
-
-			}
-		}
-
-		div#retailers{
-			ul{
-				margin-top: -.8em;
-				padding-left: 0;
-				li{
-					padding-right: 0;
-					img#faber{
-						height: 12px;
-						padding-right: 5px;
-					}
-					img#amazon{
-						height: 30px;
-						margin-top: .7em;
-						padding-left: 5px;
-						margin-right: 5px;
-					}
-				}
-			}
-		}
-
-		div#blogboard{
-			border-radius: 5px;
-			height: 31.3em;
-			width: 45em;
-			margin-right: 3.5em;
-			float: right;
-			background-color: #e8e8e8;
-				h1#praise{
-					font-family: 'Open Sans';
-					text-align: center;
-					color: white;
-					font-size: 1.5em;
-					width: 35%;
-					height: 4em;
-					float: left;
-					margin: 12px;
-					border-radius: 3px;
-					padding-top: 1em;
-					background-color: #013756;
-					margin-bottom: 6px;
-				}
-
-				div#twitter{
-					width: 35%;
-					height: 4em;
-					float: left;
-					margin: 12px;
-					margin-top: 0px;
-					border-radius: 3px;
-					background-color: #00456e;
-						ul{
-							display: inline;
-							padding-left: 1em;
-							display: none;
-							li{
-								padding-right: 0;
-								img#twitterlogo{
-									height: 2.5em;
-								}
-								img#youtubelogo{
-									height: 3.5em;
-								}
-								img#facebooklogo{
-									height: 2.4em;
-								}
-							}
-						}
-
-				}
-
-				div#buythebook{
-
-					color: white;
-					text-align: center;
-					font-size: 1.4em;
-					width: 35%;
-					height: 1.5em;
-					float: left;
-					margin: 12px;
-					margin-top: 0px;
-					border-radius: 3px;
-					/*background-color: #2989c8;*/
-					img{
-						width: 250px;
-						height: 70px;
-						margin-left: -.7em;
-					}
-				}
-
-				div#hughvideo{
-					padding-top: 2px;
-					font-family: 'Open Sans';
-					text-align: center;
-					color: white;
-					text-align: center;
-					font-size: 1em;
-					width: 35%;
-					height: 4.7em;
-					float: left;
-					margin: 12px;
-					margin-top: 6px;
-					border-radius: 3px;
-					background-color: #2989c8;
-					span#click{
-						font-weight: 600;
-					}
-
-				}
-
-				div#hughimg{
-					text-align: center;
-					img{
-						height: 18em;
-						padding-left: 26px;
-						padding-right: 26px;
-						background-color: #d1d1d1;
-						margin-right: 8px;
-					}
-				}
-
-
-				div#retailer{
-					text-align: center;
-					font-size: 1em;
-					width: 35%;
-					height: 3em;
-					float: left;
-					margin: 12px;
-					border-radius: 3px;
-
-					img{
-						width: 11em;
-					}
-				}
-
-				div#pagination{
-					height: 3em;
-					width: 57.7%;
-					float: right;
-					background-color: #d1d1d1;
-					border-radius: 3px;
-					margin-right: 1em;
-					margin-top: 1.2em;
-					img{
-						margin-left: 80px;
-						margin-top: 4px;
-					}
-				}
-		}
 
 		div#scrolldown{
-			margin-left: 36em;
+			text-align: center;
 			img{
 				height: 50px;
 				margin-top: .1em;
+				padding-bottom: .6em;
+				margin-bottom: .6em;
 			}
 		}
+
+		/*div#dispatchvideo{
+			height: 100vh;
+			background-color: white;
+			div#the-dispatch{
+				background-color: #d1d1d1;
+				margin: 0 auto;
+				height: inherit;
+				margin-left: 2em;
+				margin-right: 2em;
+							div#the-dispatch-inner{
+				width: 800px;
+				height: inherit;
+				margin: 0 auto;
+				background-color: white;
+				}			
+
+			}
+
+		}*/
 
 	}
 }
