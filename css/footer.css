@@ -1,4 +1,4 @@
-ul#secnav {
+ul#footer {
   font-family: 'Open Sans';
   height: 30px;
   background-color: #e8e8e8;
@@ -7,22 +7,22 @@ ul#secnav {
   text-align: left;
   padding-left: 50px;
   padding-top: 5px; }
-  ul#secnav li {
+  ul#footer li {
     color: #2989c8;
     font-weight: 600;
     font-size: 13px; }
-    ul#secnav li img#twittericon {
+    ul#footer li img#twittericon {
       margin-right: 3.8em;
       margin-top: -.2em;
       padding-top: .09em; }
-    ul#secnav li img#facebookicon {
+    ul#footer li img#facebookicon {
       height: 1.8em;
       float: right;
       margin-right: .5em;
       padding-top: .1em;
       padding-bottom: .07em;
       margin-top: -.07em; }
-    ul#secnav li img#youtubeicon {
+    ul#footer li img#youtubeicon {
       height: 2.07em;
       float: right;
       margin-right: .3em;

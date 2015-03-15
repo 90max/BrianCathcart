@@ -98,9 +98,10 @@
 		}
 
 		.sec-nav{
-				ul#mainnav{
-				position: fixed;
-				width: 88.85%;
+			margin-top: -11em;
+				ul{
+				z-index: 0; 
+				width: 100%;
 				margin: 0 auto; 
 				text-align: center;
 				height: 30px;
@@ -125,6 +126,14 @@
 							color: white;
 						}
 				}
+			}
+		}
+
+		div#bookmark{
+			img{			
+				height: 18em;
+				margin-top: -5em;
+				z-index: 1;
 			}
 		}
 
