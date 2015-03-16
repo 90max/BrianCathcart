@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,gBAAG;EACF,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,OAAO;EACtB,WAAW,EAAE,GAAG;;AAIlB,QAAQ;EACP,WAAW,EAAE,KAAK;EAClB,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;EACd,gBAAgB,EAAE,OAAO;EACzB,cAAc,EAAE,IAAI;EACpB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,KAAK;EACnB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,mBAAmB",
+"sources": ["waterloo-dispatch.scss"],
+"names": [],
+"file": "waterloo-dispatch.css"
+}
