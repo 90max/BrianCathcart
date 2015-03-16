@@ -14,4 +14,22 @@ h2#title {
   margin-bottom: 15px;
   box-shadow: .5px .5px .5px .5px; }
 
+p#introduction {
+  font-family: 'Open Sans';
+  width: 850px;
+  margin: 0 auto;
+  text-align: justify; }
+
+div#thedispatch {
+  width: 750px;
+  margin: 0 auto;
+  height: 500px;
+  background-color: #e8e8e8;
+  padding: 15px;
+  overflow: scroll;
+  box-shadow: 1px 1px 1px 1px;
+  margin-bottom: 2em; }
+  div#thedispatch span {
+    font-style: italic; }
+
 /*# sourceMappingURL=waterloo-dispatch.css.map */
