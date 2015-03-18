@@ -1,7 +1,8 @@
 div#bookmark img {
-  height: 18em;
-  margin-bottom: -23.7em;
-  margin-left: 4em; }
+  width: 6em;
+  height: 17em;
+  margin-bottom: -31em;
+  margin-left: 5em; }
 
 h2#title {
   font-family: serif;
@@ -31,5 +32,8 @@ div#thedispatch {
   margin-bottom: 2em; }
   div#thedispatch span {
     font-style: italic; }
+  div#thedispatch span.anchor {
+    font-style: normal;
+    font-weight: 600; }
 
 /*# sourceMappingURL=waterloo-dispatch.css.map */

@@ -1,8 +1,9 @@
 div#bookmark{
 	img{
-		height: 18em;
-		margin-bottom: -23.7em;
-		margin-left: 4em;
+		width: 6em;
+		height: 17em;
+		margin-bottom: -31em;
+		margin-left: 5em;
 	}
 }
 
@@ -37,4 +38,8 @@ div#thedispatch{
 	span{
 		font-style: italic;
 	} 
+	span.anchor{
+		font-style: normal;
+		font-weight: 600;
+	}
 }

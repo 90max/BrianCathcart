@@ -1,9 +1,11 @@
 div#bookmark img {
-  height: 18em;
-  margin-bottom: -23.7em;
-  margin-left: 4em; }
+  width: 6em;
+  height: 17em;
+  margin-bottom: -31em;
+  margin-left: 5em; }
 
 h2#title {
+  text-transform: uppercase;
   font-family: serif;
   width: 1100px;
   margin: 0 auto;
