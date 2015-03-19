@@ -1,0 +1,63 @@
+@font-face {
+  font-family: oswaldLight;
+  src: url(/fonts/Oswald-Light.ttf); }
+@font-face {
+  font-family: oswaldRegular;
+  src: url(/fonts/Oswald-Regular.ttf); }
+div#nav {
+  height: 75px; }
+  div#nav h1 {
+    padding-bottom: .8em;
+    margin-top: 0;
+    padding-top: .5em;
+    margin-left: 5em;
+    margin-right: 4.5em;
+    font-family: oswaldRegular;
+    border-bottom: 1px solid #999999; }
+    div#nav h1 a {
+      color: #757272; }
+    div#nav h1 span {
+      color: #757272;
+      font-family: oswaldLight; }
+
+div.read-the-myth {
+  width: 865px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1em; }
+
+div.row {
+  text-align: center; }
+  div.row ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 313px;
+    list-style-type: none; }
+    div.row ul li {
+      font-size: 12px;
+      text-align: justify;
+      margin-right: 2em;
+      height: 270px;
+      width: 270px;
+      overflow: hidden; }
+      div.row ul li p {
+        color: white; }
+      div.row ul li img {
+        height: 313px; }
+
+div.title {
+  padding-bottom: 3em;
+  text-align: center; }
+  div.title ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 15px;
+    list-style-type: none; }
+    div.title ul li {
+      color: #999999;
+      margin-right: 2em;
+      height: 15px;
+      width: 313px; }
+
+/*# sourceMappingURL=rothschild.css.map */
