@@ -4,60 +4,73 @@
 @font-face {
   font-family: oswaldRegular;
   src: url(/fonts/Oswald-Regular.ttf); }
-div#nav {
-  height: 75px; }
-  div#nav h1 {
+div#wrapper div#nav {
+  width: 900px;
+  height: 75px;
+  margin: 0 auto; }
+  div#wrapper div#nav h1 {
     padding-bottom: .8em;
     margin-top: 0;
     padding-top: .5em;
-    margin-left: 5em;
-    margin-right: 4.5em;
+    margin-left: 20px;
     font-family: oswaldRegular;
     border-bottom: 1px solid #999999; }
-    div#nav h1 a {
+    div#wrapper div#nav h1 a {
       color: #757272; }
-    div#nav h1 span {
+    div#wrapper div#nav h1 a#black {
+      color: black; }
+    div#wrapper div#nav h1 span {
       color: #757272;
       font-family: oswaldLight; }
-
-div.read-the-myth {
+div#wrapper div.row {
+  text-align: center; }
+  div#wrapper div.row ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 295px;
+    list-style-type: none; }
+    div#wrapper div.row ul li {
+      font-size: 10px;
+      text-align: justify;
+      margin-right: 2em;
+      height: 290px;
+      width: 280px;
+      overflow: hidden; }
+      div#wrapper div.row ul li p {
+        font-weight: 600; }
+      div#wrapper div.row ul li img {
+        height: 313px; }
+    div#wrapper div.row ul li:hover {
+      cursor: pointer; }
+      div#wrapper div.row ul li:hover img {
+        opacity: .8; }
+div#wrapper div.title {
+  padding-bottom: 3em;
+  text-align: center; }
+  div#wrapper div.title ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 15px;
+    list-style-type: none; }
+    div#wrapper div.title ul li {
+      color: #999999;
+      font-family: 'Open Sans';
+      margin-right: 2em;
+      height: 15px;
+      width: 270px; }
+div#wrapper div.read-the-myth {
   width: 865px;
   margin: 0 auto;
   text-align: justify;
   margin-top: 2em;
   padding-left: 1em; }
-
-div.row {
-  text-align: center; }
-  div.row ul {
-    margin-bottom: 0;
-    display: inline-flex;
-    height: 313px;
-    list-style-type: none; }
-    div.row ul li {
-      font-size: 12px;
-      text-align: justify;
-      margin-right: 2em;
-      height: 270px;
-      width: 270px;
-      overflow: hidden; }
-      div.row ul li p {
-        color: white; }
-      div.row ul li img {
-        height: 313px; }
-
-div.title {
-  padding-bottom: 3em;
-  text-align: center; }
-  div.title ul {
-    margin-bottom: 0;
-    display: inline-flex;
-    height: 15px;
-    list-style-type: none; }
-    div.title ul li {
-      color: #999999;
-      margin-right: 2em;
-      height: 15px;
-      width: 313px; }
+div#wrapper div.roworth {
+  height: 325px;
+  overflow: scroll;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.7em; }
 
 /*# sourceMappingURL=rothschild.css.map */

@@ -5,83 +5,109 @@
 @font-face {
   font-family: oswaldRegular;
   src: url(/fonts/Oswald-Regular.ttf); }
-
-div#nav{
-
-
-	height: 75px;
-	h1{
-		padding-bottom: .8em;
-		margin-top: 0;
-		padding-top: .5em;
-		margin-left: 5em;
-		margin-right: 4.5em;
-		font-family: oswaldRegular;
-		border-bottom: 1px solid #999999;
-		a{
-			color: #757272;
-		}
-		span{
-			color: #757272;
-			font-family: oswaldLight;
-		}
-
-	}
+div#wrapper{
 	
-}
+	div#nav{
 
-
-
-div.read-the-myth{
-	width: 865px;
-	margin: 0 auto;
-	text-align: justify;
-	margin-top: 2em;
-	padding-left: 1em;
-}
-
-
-
-div.row{
-	text-align: center;
-	ul{
-		margin-bottom: 0;
-		display: inline-flex;
-		height: 313px;
-		list-style-type: none;
-
-		li{
-
-			font-size: 12px;
-			text-align: justify;
-			
-			margin-right: 2em;
-			height: 270px;
-			width: 270px;
-			overflow: hidden;
-			p{
-				color: white;
+		width: 900px;
+		height: 75px;
+		margin: 0 auto;
+		h1{
+			padding-bottom: .8em;
+			margin-top: 0;
+			padding-top: .5em;
+			margin-left: 20px;
+			font-family: oswaldRegular;
+			border-bottom: 1px solid #999999;
+			a{
+				color: #757272;
 			}
-			img{
-				height: 313px;
+			a#black{
+				color: black;
+			}
+			span{
+				color: #757272;
+				font-family: oswaldLight;
+			}
+
+		}
+		
+	}
+
+
+
+
+
+
+
+	div.row{
+		text-align: center;
+		ul{
+			margin-bottom: 0;
+			display: inline-flex;
+			height: 295px;
+			list-style-type: none;
+
+			li{
+
+				font-size: 10px;
+				text-align: justify;
+				
+				margin-right: 2em;
+				height: 290px;
+				width: 280px;
+				overflow: hidden;
+				p{
+					font-weight: 600;
+				}
+				img{
+					height: 313px;
+				}
+			}
+
+			li:hover{
+				cursor: pointer;
+				img{
+					opacity: .8;
+
+				}
 			}
 		}
 	}
-}
 
-div.title{
-	padding-bottom: 3em;
-	text-align: center;
-	ul{
-		margin-bottom: 0;
-		display: inline-flex;
-		height: 15px;
-		list-style-type: none;
-		li{
-			color: #999999;
-			margin-right: 2em;
+	div.title{
+		padding-bottom: 3em;
+		text-align: center;
+		ul{
+			margin-bottom: 0;
+			display: inline-flex;
 			height: 15px;
-			width: 313px;
+			list-style-type: none;
+			li{
+				color: #999999;
+				font-family: 'Open Sans';
+				margin-right: 2em;
+				height: 15px;
+				width: 270px;
+			}
 		}
+	}
+
+	div.read-the-myth{
+		width: 865px;
+		margin: 0 auto;
+		text-align: justify;
+		margin-top: 2em;
+		padding-left: 1em;
+	}
+
+	div.roworth{
+		height: 325px;
+		overflow: scroll;
+		width: 900px;
+		margin: 0 auto;
+		text-align: justify;
+		margin-top: 2em;
+		padding-left: 1.7em;
 	}
 }

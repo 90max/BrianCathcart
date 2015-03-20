@@ -13,8 +13,9 @@ div#bookcover {
 div#retailers ul {
   margin-top: -.8em;
   padding-left: 0;
-  margin-left: 2em; }
+  margin-left: 2.4em; }
   div#retailers ul li {
+    display: inline;
     padding-right: 0; }
     div#retailers ul li img#faber {
       height: 12px;

@@ -24,30 +24,33 @@ ul.post-list {
   ul.post-list a.post-link {
     color: #00456e;
     font-size: 0.57em; }
-  ul.post-list li h2 {
-    margin-bottom: 0;
-    margin-top: -0.5em;
-    /*border-radius: 5px;*/
-    width: 12.13em;
-    background-color: #d1d1d1;
-    padding-left: 13px;
-    padding-top: 0.47em; }
-  ul.post-list li span.post-meta {
-    float: right;
-    margin-right: 2.3em;
-    margin-top: 1em;
-    font-size: 0.9em; }
-  ul.post-list li p {
-    height: 3.8em;
-    font-size: 13px;
-    margin-right: 3em;
-    margin-bottom: 0.1em;
-    /*border-radius: 3px;*/
-    background-color: #d1d1d1;
-    width: 27.98em;
-    padding-left: 15px;
-    padding-right: 8px;
-    padding-bottom: 60px;
-    padding-top: 5px; }
+  ul.post-list li {
+    display: inline;
+    padding-left: 2em; }
+    ul.post-list li h2 {
+      margin-bottom: 0;
+      margin-top: -0.5em;
+      /*border-radius: 5px;*/
+      width: 12.13em;
+      background-color: #d1d1d1;
+      padding-left: 13px;
+      padding-top: 0.47em; }
+    ul.post-list li span.post-meta {
+      float: right;
+      margin-right: 2.3em;
+      margin-top: 1em;
+      font-size: 0.9em; }
+    ul.post-list li p {
+      height: 3.8em;
+      font-size: 13px;
+      margin-right: 3em;
+      margin-bottom: 0.1em;
+      /*border-radius: 3px;*/
+      background-color: #d1d1d1;
+      width: 27.98em;
+      padding-left: 15px;
+      padding-right: 8px;
+      padding-bottom: 60px;
+      padding-top: 5px; }
 
 /*# sourceMappingURL=blog.css.map */

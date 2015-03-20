@@ -8,6 +8,8 @@ ul#footer {
   padding-left: 50px;
   padding-top: 5px; }
   ul#footer li {
+    display: inline;
+    padding-left: 2em;
     color: #2989c8;
     font-weight: 600;
     font-size: 13px; }

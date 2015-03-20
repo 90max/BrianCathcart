@@ -14,7 +14,8 @@
     padding-right: 20px;
     padding-left: 20px;
     padding-top: 5px;
-    padding-bottom: 6px; }
+    padding-bottom: 6px;
+    display: inline; }
     .nav ul#mainnav li a {
       color: white; }
     .nav ul#mainnav li a:hover {
@@ -31,7 +32,9 @@
   .nav ul#secnav li {
     color: #2989c8;
     font-weight: 600;
-    font-size: 13px; }
+    font-size: 13px;
+    display: inline;
+    padding-right: 2em; }
     .nav ul#secnav li img#twittericon {
       margin-right: 3.8em;
       margin-top: -.2em;
@@ -63,7 +66,7 @@
 
 .nav-edit ul#mainnav {
   position: fixed;
-  width: 88.85%;
+  width: 1200px;
   margin: 0 auto;
   margin-top: -13.5em; }
 .nav-edit div#buffer {
@@ -82,6 +85,7 @@
     padding-left: 0;
     box-shadow: -.2px 2.5px 5px; }
     .sec-nav ul li {
+      display: inline;
       vertical-align: -webkit-baseline-middle;
       color: white;
       text-transform: uppercase;
@@ -90,7 +94,8 @@
       padding-right: 20px;
       padding-left: 20px;
       padding-top: 5px;
-      padding-bottom: 6px; }
+      padding-bottom: 6px;
+      display: inline; }
       .sec-nav ul li a {
         color: white; }
       .sec-nav ul li a:hover {
@@ -104,10 +109,11 @@ div#bookmark img {
 			/*ul{
 				text-align: center;
 */
-li {
-  display: inline;
-  padding-right: 2em; }
+				/*li{
+					display: inline;
+					padding-right: 2em;
 
+				}*/
 /*}*/
 
 /*# sourceMappingURL=header.css.map */

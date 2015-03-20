@@ -21,6 +21,12 @@ p#introduction {
   margin: 0 auto;
   text-align: justify; }
 
+ul#shortcut {
+  margin-left: 12.5em;
+  margin-bottom: 1.5em; }
+  ul#shortcut li {
+    padding-right: 0; }
+
 div#thedispatch {
   width: 750px;
   margin: 0 auto;
