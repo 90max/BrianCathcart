@@ -68,7 +68,8 @@
   position: fixed;
   width: 1200px;
   margin: 0 auto;
-  margin-top: -13.5em; }
+  margin-top: -13.5em;
+  z-index: 2; }
 .nav-edit div#buffer {
   margin-bottom: 4.6em; }
 

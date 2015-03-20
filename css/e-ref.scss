@@ -20,8 +20,60 @@ h2#title{
 	box-shadow: .5px .5px .5px .5px;
 }
 
-div.col1{
+div.col-md-3.one{
+	z-index: 1;
 	margin-left: 11em;
+	width: 250px;
+	h3{
+		padding-left: 1.5em;
+
+	}
+	ul{
+		li{
+			list-style-type: upper-roman;
+			font-size: 10px;
+			padding-top: 3px;
+
+		}
+	}
+}
+
+div.col-md-3.two{
+	z-index: 1;
+	width: 250px;
+	h3{
+		padding-left: 1.5em;
+
+	}
+	ul{
+		li{
+			list-style-type: upper-roman;
+			font-size: 10px;
+			padding-top: 3px;
+
+		}
+	}
+}
+
+div.col-md-3.three{
+	z-index: 1;
+	width: 250px;
+	h3{
+		padding-left: 1.5em;
+
+	}
+	ul{
+		li{
+			list-style-type: upper-roman;
+			font-size: 10px;
+			padding-top: 3px;
+
+		}
+	}
+}
+
+div.col-md-3.four{
+	z-index: 1;
 	width: 250px;
 	h3{
 		padding-left: 1.5em;
