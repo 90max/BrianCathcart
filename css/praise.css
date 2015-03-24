@@ -18,26 +18,24 @@ div#whatpeoplesay {
     margin-right: 0em;
     padding: 15px; }
   div#whatpeoplesay div#quote1 {
-    width: 14.2em;
-    height: 10.3em;
+    width: 14.1em;
+    height: 13em;
     float: left;
-    margin: 12px;
     border-radius: 3px;
     padding-top: 1em;
     background-color: #d1d1d1;
     margin-bottom: 6px;
-    margin-top: 15px;
-    margin-right: 0em; }
+    margin-right: 0em;
+    margin-left: 12px; }
   div#whatpeoplesay div#quote2 {
-    width: 14.2em;
-    height: 10.97em;
+    width: 14.1em;
+    height: 13.67em;
     float: left;
-    margin: 12px;
     border-radius: 3px;
     padding-top: 1em;
     background-color: #d1d1d1;
     margin-bottom: 6px;
-    margin-top: 15px;
-    margin-right: 0em; }
+    margin-right: 0em;
+    margin-left: 12px; }
 
 /*# sourceMappingURL=praise.css.map */

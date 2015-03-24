@@ -51,7 +51,7 @@ div#blogboard {
     text-align: center;
     font-size: 1em;
     width: 36.4%;
-    height: 7.76em;
+    height: 7.78em;
     float: left;
     border-radius: 3px;
     background-color: #2989c8;
@@ -64,8 +64,8 @@ div#blogboard {
       div#blogboard div#hughvideo div#scrolldown img {
         height: 45px;
         margin-top: .1em;
-        padding-bottom: .6em;
-        margin-bottom: .6em; }
+        padding-bottom: .8em;
+        padding-top: .5em; }
   div#blogboard div#hughimg {
     text-align: center; }
     div#blogboard div#hughimg img {
@@ -85,7 +85,7 @@ div#blogboard {
     border-radius: 3px; }
     div#blogboard div#retailer img {
       width: 11em; }
-  div#blogboard div#pagination {
+  div#blogboard div.pagination {
     text-align: center;
     height: 3em;
     width: 57.7%;
@@ -94,7 +94,7 @@ div#blogboard {
     border-radius: 3px;
     margin-right: 1.02em;
     margin-top: 4.5em; }
-    div#blogboard div#pagination img {
+    div#blogboard div.pagination img {
       height: 2.1em;
       margin-top: .4em; }
 

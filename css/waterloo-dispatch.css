@@ -22,7 +22,7 @@ p#introduction {
   text-align: justify; }
 
 ul#shortcut {
-  margin-left: 12.5em;
+  margin-left: 10.6em;
   margin-bottom: 1.5em; }
   ul#shortcut li {
     padding-right: 0; }
@@ -41,5 +41,22 @@ div#thedispatch {
   div#thedispatch span.anchor {
     font-style: normal;
     font-weight: 600; }
+  div#thedispatch div {
+    padding-top: 2.5em;
+    padding-bottom: 1em;
+    font-weight: 600; }
+
+ul#shortcut li {
+  display: inline; }
+
+#container {
+  overflow: auto;
+  height: 50px; }
+
+.scrollto {
+  font-weight: 600;
+  color: black;
+  text-decoration: underline;
+  cursor: pointer; }
 
 /*# sourceMappingURL=waterloo-dispatch.css.map */

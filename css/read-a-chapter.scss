@@ -29,6 +29,7 @@ p#introduction{
 }
 
 div#chapter2{
+	text-align: justify;
 	width: 750px;
 	margin: 0 auto;
 	height: 500px;
@@ -37,8 +38,15 @@ div#chapter2{
 	overflow: scroll;
 	box-shadow: 1px 1px 1px 1px;
 	margin-bottom: 2em;
-	span{
-		width: 600px;
-		margin: 0 auto;
+	p.indent{
+		padding-left: 15px;
+		padding-right: 15px;
+		text-indent: 0;
 	} 
+	p{
+		text-indent: 1em;
+	}
+	p.noindent{
+		text-indent: 0;
+	}
 }
