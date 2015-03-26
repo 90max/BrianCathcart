@@ -83,7 +83,13 @@ div#wrapper div.urban-legends {
   text-align: justify;
   margin-top: 2em;
   padding-left: 1.7em; }
-div#wrapper div.hidden {
-  display: none; }
+div#wrapper div#box {
+  max-height: 325px;
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.7em; }
 
 /*# sourceMappingURL=rothschild.css.map */
