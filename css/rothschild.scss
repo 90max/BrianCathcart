@@ -61,7 +61,8 @@ div#wrapper{
 					font-weight: 600;
 				}
 				img{
-					height: 313px;
+					height: 305px;
+					/*height: 313px;*/
 				}
 			}
 
@@ -94,20 +95,36 @@ div#wrapper{
 	}
 
 	div.read-the-myth{
-		width: 865px;
-		margin: 0 auto;
-		text-align: justify;
-		margin-top: 2em;
-		padding-left: 1em;
-	}
-
-	div.roworth{
 		height: 325px;
-		overflow: scroll;
+		overflow: auto;
 		width: 900px;
 		margin: 0 auto;
 		text-align: justify;
 		margin-top: 2em;
 		padding-left: 1.7em;
+	}
+
+	div.roworth{
+		height: 325px;
+		overflow: auto;
+		width: 900px;
+		margin: 0 auto;
+		text-align: justify;
+		margin-top: 2em;
+		padding-left: 1.7em;
+	}
+
+	div.urban-legends{
+		height: 325px;
+		overflow: auto;
+		width: 900px;
+		margin: 0 auto;
+		text-align: justify;
+		margin-top: 2em;
+		padding-left: 1.7em;
+	}
+
+	div.hidden{
+		display: none;
 	}
 }
