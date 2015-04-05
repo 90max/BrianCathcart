@@ -23,7 +23,7 @@ div.col-md-3.one {
   div.col-md-3.one h3 {
     padding-left: 1.5em; }
   div.col-md-3.one ul li {
-    list-style-type: upper-roman;
+    list-style-type: square;
     font-size: 10px;
     padding-top: 3px; }
 
@@ -33,7 +33,7 @@ div.col-md-3.two {
   div.col-md-3.two h3 {
     padding-left: 1.5em; }
   div.col-md-3.two ul li {
-    list-style-type: upper-roman;
+    list-style-type: square;
     font-size: 10px;
     padding-top: 3px; }
 
@@ -43,7 +43,7 @@ div.col-md-3.three {
   div.col-md-3.three h3 {
     padding-left: 1.5em; }
   div.col-md-3.three ul li {
-    list-style-type: upper-roman;
+    list-style-type: square;
     font-size: 10px;
     padding-top: 3px; }
 
@@ -53,8 +53,12 @@ div.col-md-3.four {
   div.col-md-3.four h3 {
     padding-left: 1.5em; }
   div.col-md-3.four ul li {
-    list-style-type: upper-roman;
+    font-family: 'Open Sans';
+    list-style-type: square;
     font-size: 10px;
     padding-top: 3px; }
+
+ul#retailers {
+  visibility: hidden; }
 
 /*# sourceMappingURL=e-ref.css.map */

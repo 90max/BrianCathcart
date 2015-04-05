@@ -21,8 +21,19 @@ div.authcont {
   margin: 0 auto;
   margin-bottom: 3em; }
   div.authcont p {
-    font-family: 'Open Sans'; }
+    font-family: 'Open Sans';
+    text-align: justify; }
   div.authcont h3 {
     font-family: 'Open Sans'; }
+  div.authcont img {
+    height: 350px;
+    overflow: hidden;
+    float: right;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 25px;
+    margin-top: 5px;
+    background-color: #e8e8e8;
+    box-shadow: 1px 1px 1px 1px; }
 
 /*# sourceMappingURL=about-the-author.css.map */

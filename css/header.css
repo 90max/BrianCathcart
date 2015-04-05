@@ -1,74 +1,76 @@
-.nav ul#mainnav {
-  text-align: center;
-  height: 30px;
-  background-color: #054f86;
-  margin-bottom: 2.3em;
-  padding-left: 0;
-  box-shadow: -.2px 2.5px 5px; }
-  .nav ul#mainnav li {
-    vertical-align: -webkit-baseline-middle;
-    color: white;
-    text-transform: uppercase;
+.nav {
+  margin-bottom: .5em; }
+  .nav ul#mainnav {
+    text-align: center;
+    height: 30px;
+    background-color: #054f86;
+    margin-bottom: 2.3em;
+    padding-left: 0;
+    box-shadow: -.2px 2.5px 5px; }
+    .nav ul#mainnav li {
+      vertical-align: -webkit-baseline-middle;
+      color: white;
+      text-transform: uppercase;
+      font-family: 'Open Sans';
+      font-weight: 800;
+      padding-right: 20px;
+      padding-left: 20px;
+      padding-top: 5px;
+      padding-bottom: 6px;
+      display: inline; }
+      .nav ul#mainnav li a {
+        color: white; }
+      .nav ul#mainnav li a:hover {
+        color: white; }
+  .nav ul#secnav {
     font-family: 'Open Sans';
-    font-weight: 800;
-    padding-right: 20px;
-    padding-left: 20px;
-    padding-top: 5px;
-    padding-bottom: 6px;
-    display: inline; }
-    .nav ul#mainnav li a {
-      color: white; }
-    .nav ul#mainnav li a:hover {
-      color: white; }
-.nav ul#secnav {
-  font-family: 'Open Sans';
-  height: 30px;
-  background-color: #e8e8e8;
-  margin-bottom: 0;
-  padding-left: 0;
-  text-align: left;
-  padding-left: 50px;
-  padding-top: 5px; }
-  .nav ul#secnav li {
-    color: #2989c8;
-    font-weight: 600;
-    font-size: 13px;
-    display: inline;
-    padding-right: 2em; }
-    .nav ul#secnav li img#twittericon {
-      margin-right: 3.8em;
-      margin-top: -.2em;
-      padding-top: .09em; }
-    .nav ul#secnav li img#facebookicon {
-      height: 1.8em;
-      float: right;
-      margin-right: .5em;
-      padding-top: .1em;
-      padding-bottom: .07em;
-      margin-top: -.07em; }
-    .nav ul#secnav li img#youtubeicon {
-      height: 2.07em;
-      float: right;
-      margin-right: .3em;
-      margin-top: -.12em; }
-.nav div#welcome {
-  font-size: 30px;
-  border-top: 2px solid #00456e;
-  height: 60px;
-  text-align: center;
-  padding-top: 15px;
-  font-family: serif;
-  color: #00456e;
-  font-weight: 800; }
-.nav div#currentdate {
-  text-align: center;
-  padding-bottom: 1em; }
+    height: 30px;
+    background-color: #e8e8e8;
+    margin-bottom: 0;
+    padding-left: 0;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 5px; }
+    .nav ul#secnav li {
+      color: #2989c8;
+      font-weight: 600;
+      font-size: 13px;
+      display: inline;
+      padding-right: 2em; }
+      .nav ul#secnav li img#twittericon {
+        margin-right: 3.8em;
+        margin-top: -.2em;
+        padding-top: .09em; }
+      .nav ul#secnav li img#facebookicon {
+        height: 1.8em;
+        float: right;
+        margin-right: .5em;
+        padding-top: .1em;
+        padding-bottom: .07em;
+        margin-top: -.07em; }
+      .nav ul#secnav li img#youtubeicon {
+        height: 2.07em;
+        float: right;
+        margin-right: .3em;
+        margin-top: -.12em; }
+  .nav div#welcome {
+    font-size: 30px;
+    border-top: 2px solid #00456e;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: serif;
+    color: #00456e;
+    font-weight: 800; }
+  .nav div#currentdate {
+    text-align: center;
+    padding-bottom: 1em; }
 
 .nav-edit ul#mainnav {
   position: fixed;
   width: 1200px;
   margin: 0 auto;
-  margin-top: -13.5em;
+  margin-top: -12.5em;
   z-index: 2; }
 .nav-edit div#buffer {
   margin-bottom: 4.6em; }

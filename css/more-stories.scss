@@ -24,6 +24,19 @@ h2#title{
 ul.more-stories{
 	width: 930px;
 	margin: 0 auto;
-	list-style: none;
+	list-style: square;
+	font-family: 'Open Sans';
 
+	p{
+		margin-top: 5px;
+	}
+	p.smaller{
+		font-size: 12px;
+	}
+
+
+}
+
+ul#retailers{
+	margin-left: 9em !important;
 }

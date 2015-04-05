@@ -26,8 +26,20 @@ div.authcont{
 	margin-bottom: 3em;
 	p{
 		font-family: 'Open Sans';
+		text-align: justify;
 	}
 	h3{
 		font-family: 'Open Sans';
+	}
+	img{
+		height: 350px;
+		overflow: hidden;
+		float: right;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		margin-left: 25px;
+		margin-top: 5px;
+		background-color: #e8e8e8;
+		box-shadow: 1px 1px 1px 1px;
 	}
 }
