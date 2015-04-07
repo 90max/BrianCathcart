@@ -6,15 +6,15 @@
   src: url(/fonts/Oswald-Regular.ttf); }
 div#wrapper div#nav {
   width: 900px;
-  height: 75px;
+  /*height: 75px;*/
+  height: 150px;
   margin: 0 auto; }
   div#wrapper div#nav h1 {
-    padding-bottom: .8em;
+    padding-bottom: .5em;
     margin-top: 0;
     padding-top: .5em;
     margin-left: 20px;
-    font-family: oswaldRegular;
-    border-bottom: 1px solid #999999; }
+    font-family: oswaldRegular; }
     div#wrapper div#nav h1 a {
       color: #757272; }
     div#wrapper div#nav h1 a#black {
@@ -22,6 +22,36 @@ div#wrapper div#nav {
     div#wrapper div#nav h1 span {
       color: #757272;
       font-family: oswaldLight; }
+div#wrapper div.scroller-holder {
+  margin-bottom: 1em;
+  margin-left: 1.45em;
+  border-bottom: 1px solid #999999; }
+  div#wrapper div.scroller-holder img.scroller {
+    height: 3.5em;
+    display: block;
+    margin: auto;
+    margin-bottom: 1em; }
+div#wrapper div.intro {
+  padding-top: 1em;
+  width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: 'Open Sans'; }
+  div#wrapper div.intro h4 {
+    margin-left: 20px; }
+  div#wrapper div.intro p {
+    margin-left: 20px;
+    text-align: justify; }
+div#wrapper div.intro-edit {
+  width: 900px;
+  height: 75px;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: 'Open Sans'; }
+  div#wrapper div.intro-edit h4 {
+    margin-left: 20px; }
+  div#wrapper div.intro-edit p {
+    margin-left: 20px; }
 div#wrapper div.row {
   text-align: center; }
   div#wrapper div.row ul {
@@ -66,7 +96,7 @@ div#wrapper div.read-the-myth {
   margin: 0 auto;
   text-align: justify;
   margin-top: 2em;
-  padding-left: 1.7em; }
+  padding-left: 1.5em; }
 div#wrapper div.roworth {
   height: 325px;
   overflow: auto;
@@ -74,7 +104,7 @@ div#wrapper div.roworth {
   margin: 0 auto;
   text-align: justify;
   margin-top: 2em;
-  padding-left: 1.7em; }
+  padding-left: 1.5em; }
 div#wrapper div.urban-legends {
   height: 325px;
   overflow: auto;
@@ -82,7 +112,7 @@ div#wrapper div.urban-legends {
   margin: 0 auto;
   text-align: justify;
   margin-top: 2em;
-  padding-left: 1.7em; }
+  padding-left: 1.5em; }
 div#wrapper div#box {
   max-height: 325px;
   overflow: auto;
@@ -90,6 +120,6 @@ div#wrapper div#box {
   margin: 0 auto;
   text-align: justify;
   margin-top: 2em;
-  padding-left: 1.7em; }
+  padding-left: 1.4em; }
 
 /*# sourceMappingURL=rothschild.css.map */
