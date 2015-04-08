@@ -1,3 +1,3 @@
-$(".rowtwo").on("click", "#tilethree", function() {
+$(".rowone").on("click", "#tilethree", function() {
     $("#box").html($("#t3").html());
 });

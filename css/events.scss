@@ -20,14 +20,20 @@ h2#title{
 	box-shadow: .5px .5px .5px .5px;
 }
 
-div#research{
+ul#events{
+	list-style: square;
 	width: 850px;
 	margin: 0 auto;
-	p{
-		font-family: 'Open Sans';
+	li{
+		p{
+			font-family: 'Open Sans';
+			span{
+				font-weight: 600;
+			}
+		}
 	}
 }
 
 ul#retailers{
-	margin-left: 9em !important;
+	margin-left: 11.8em !important;
 }
