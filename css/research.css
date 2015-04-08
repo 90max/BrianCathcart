@@ -20,9 +20,15 @@ div#research {
   width: 850px;
   margin: 0 auto; }
   div#research p {
-    font-family: 'Open Sans'; }
+    font-family: 'Open Sans';
+    font-size: 15px; }
+  div#research ul {
+    list-style: square; }
+    div#research ul li {
+      padding-bottom: 10px;
+      font-weight: 600; }
 
 ul#retailers {
-  margin-left: 9em !important; }
+  margin-left: 10.7em !important; }
 
 /*# sourceMappingURL=research.css.map */

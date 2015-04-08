@@ -25,9 +25,18 @@ div#research{
 	margin: 0 auto;
 	p{
 		font-family: 'Open Sans';
+		font-size: 15px;
+
+	}
+	ul{
+		list-style: square;
+		li{
+			padding-bottom: 10px;
+			font-weight: 600;
+		}
 	}
 }
 
 ul#retailers{
-	margin-left: 9em !important;
+	margin-left: 10.7em !important;
 }

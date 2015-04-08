@@ -22,9 +22,11 @@ ul.more-stories {
   list-style: square;
   font-family: 'Open Sans'; }
   ul.more-stories p {
+    font-size: 15px;
     margin-top: 5px; }
   ul.more-stories p.smaller {
-    font-size: 12px; }
+    font-size: 13px;
+    color: #8d8d8e; }
 
 ul#retailers {
   margin-left: 9em !important; }
