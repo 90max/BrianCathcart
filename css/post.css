@@ -17,6 +17,7 @@ h2#title {
   box-shadow: .5px .5px .5px .5px; }
 
 div.post {
+  font-family: 'Open Sans';
   height: 100vh;
   width: 850px;
   margin: 0 auto; }
