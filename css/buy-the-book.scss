@@ -23,7 +23,7 @@ h2#title{
 div#bookcover{
 			height: 30em;
 			width: 35%;
-			margin-left: 2em;
+			margin-left: 12.5em;
 
 			img{
 				height: 30.5em;
@@ -42,4 +42,16 @@ div#quotes{
 	background-color: #f6f1d9;
 	padding: 25px;
 	width: 550px;
+	margin-top: -32.9em;
+	border-radius: 15px;
+	p#description{
+		border-bottom: 1px solid black;
+		padding-bottom: 10px;
+	}
+	ul{
+		display: inline;
+		li{
+			display: inline;
+		}
+	}
 }
