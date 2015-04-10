@@ -24,7 +24,7 @@ div#bookcover {
   div#bookcover img {
     height: 30.5em;
     width: 20em;
-    box-shadow: 1px 1px 10px black;
+    box-shadow: 1px 1px 4px 1px;
     margin-top: 1.2em; }
   div#bookcover p {
     height: 30px; }
@@ -34,10 +34,11 @@ div#quotes {
   background-color: #f6f1d9;
   padding: 25px;
   width: 550px;
-  margin-top: -32.9em;
+  margin-top: -32.8em;
   margin-right: 10em;
   border-radius: 15px;
-  padding-bottom: 0; }
+  padding-bottom: 0;
+  box-shadow: 1px 1px 1px 1px; }
   div#quotes p#description {
     font-size: 16px;
     border-bottom: 1px solid black;
