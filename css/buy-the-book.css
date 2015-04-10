@@ -1,0 +1,31 @@
+div#bookmark img {
+  width: 6em;
+  height: 17em;
+  margin-bottom: -31em;
+  margin-left: 5em; }
+
+h2#title {
+  text-transform: uppercase;
+  font-family: serif;
+  width: 1100px;
+  margin: 0 auto;
+  background-color: #e8e8e8;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 4.1em;
+  margin-bottom: 15px;
+  box-shadow: .5px .5px .5px .5px; }
+
+div#bookcover {
+  height: 30em;
+  width: 35%;
+  margin-left: 2em; }
+  div#bookcover img {
+    height: 30.5em;
+    width: 20em;
+    box-shadow: 1px 1px 10px black;
+    margin-top: 1.2em; }
+  div#bookcover p {
+    height: 30px; }
+
+/*# sourceMappingURL=buy-the-book.css.map */
