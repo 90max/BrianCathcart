@@ -18,7 +18,10 @@ h2#title {
 
 div#form {
   margin-left: 12.4em; }
+  div#form input.textbox {
+    background-color: #2b2b2b; }
   div#form p {
-    font-family: 'Open Sans'; }
+    font-family: 'Open Sans';
+    margin-bottom: 0; }
 
 /*# sourceMappingURL=contact.css.map */
