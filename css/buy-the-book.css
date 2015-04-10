@@ -19,7 +19,8 @@ h2#title {
 div#bookcover {
   height: 30em;
   width: 35%;
-  margin-left: 12.5em; }
+  margin-left: 12.5em;
+  margin-bottom: 4em; }
   div#bookcover img {
     height: 30.5em;
     width: 20em;
@@ -29,14 +30,19 @@ div#bookcover {
     height: 30px; }
 
 div#quotes {
+  font-family: 'Open Sans';
   background-color: #f6f1d9;
   padding: 25px;
   width: 550px;
   margin-top: -32.9em;
+  margin-right: 10em;
   border-radius: 15px; }
   div#quotes p#description {
     border-bottom: 1px solid black;
     padding-bottom: 10px; }
+  div#quotes p.author {
+    font-weight: bold;
+    color: #065183; }
   div#quotes ul {
     display: inline; }
     div#quotes ul li {
