@@ -47,9 +47,14 @@ div#quotes{
 	margin-top: -32.9em;
 	margin-right: 10em;
 	border-radius: 15px;
+	padding-bottom: 0;
 	p#description{
+		font-size: 16px;
 		border-bottom: 1px solid black;
-		padding-bottom: 10px;
+		padding-bottom: 15px;
+		span{
+			font-weight: bold;
+		}
 	}
 	p.author{
 		font-weight: bold;

@@ -36,10 +36,14 @@ div#quotes {
   width: 550px;
   margin-top: -32.9em;
   margin-right: 10em;
-  border-radius: 15px; }
+  border-radius: 15px;
+  padding-bottom: 0; }
   div#quotes p#description {
+    font-size: 16px;
     border-bottom: 1px solid black;
-    padding-bottom: 10px; }
+    padding-bottom: 15px; }
+    div#quotes p#description span {
+      font-weight: bold; }
   div#quotes p.author {
     font-weight: bold;
     color: #065183; }
