@@ -68,3 +68,15 @@ div#quotes{
 		}
 	}
 }
+
+div{
+	ul#order{
+		position: absolute;
+		margin-left: 33.5em;
+		margin-top: -5em;
+		display: inline;
+		li{
+			display: inline-block;
+		}
+	}
+}

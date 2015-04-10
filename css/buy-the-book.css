@@ -53,4 +53,12 @@ div#quotes {
     div#quotes ul li {
       display: inline; }
 
+div ul#order {
+  position: absolute;
+  margin-left: 33.5em;
+  margin-top: -5em;
+  display: inline; }
+  div ul#order li {
+    display: inline-block; }
+
 /*# sourceMappingURL=buy-the-book.css.map */
