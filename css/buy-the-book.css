@@ -46,7 +46,8 @@ div#quotes {
       font-weight: bold; }
   div#quotes p.author {
     font-weight: bold;
-    color: #065183; }
+    color: #065183;
+    margin-bottom: 0; }
   div#quotes ul {
     display: inline; }
     div#quotes ul li {
