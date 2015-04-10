@@ -28,4 +28,9 @@ div#bookcover {
   div#bookcover p {
     height: 30px; }
 
+div#quotes {
+  background-color: #f6f1d9;
+  padding: 25px;
+  width: 550px; }
+
 /*# sourceMappingURL=buy-the-book.css.map */

@@ -20,7 +20,7 @@ h2#title{
 	box-shadow: .5px .5px .5px .5px;
 }
 
-		div#bookcover{
+div#bookcover{
 			height: 30em;
 			width: 35%;
 			margin-left: 2em;
@@ -36,4 +36,10 @@ h2#title{
 				height: 30px
 
 			}
-		}
+}
+
+div#quotes{
+	background-color: #f6f1d9;
+	padding: 25px;
+	width: 550px;
+}
