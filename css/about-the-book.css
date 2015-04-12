@@ -7,8 +7,8 @@ img#crown {
 p.content {
   font-family: 'Open Sans';
   padding-top: 5px;
-  width: 850px;
-  margin: 0 auto;
+  width: 700px;
+  margin-left: 32em;
   text-align: justify; }
 
 ol#facts {
@@ -45,5 +45,10 @@ h2#title {
 
 img#trumpet {
   margin-left: 8.4em; }
+
+img#infantry {
+  margin-left: 3.7em;
+  margin-top: 2.8em;
+  background-color: #e8e8e8; }
 
 /*# sourceMappingURL=about-the-book.css.map */
