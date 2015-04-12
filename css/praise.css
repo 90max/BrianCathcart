@@ -27,6 +27,11 @@ div#whatpeoplesay {
     margin-bottom: 6px;
     margin-right: 0em;
     margin-left: 12px; }
+    div#whatpeoplesay div#quote1 p {
+      font-size: 11px;
+      font-family: 'Open Sans'; }
+      div#whatpeoplesay div#quote1 p span {
+        font-size: 13px; }
   div#whatpeoplesay div#quote2 {
     width: 14.1em;
     height: 13.67em;
@@ -37,5 +42,10 @@ div#whatpeoplesay {
     margin-bottom: 6px;
     margin-right: 0em;
     margin-left: 12px; }
+    div#whatpeoplesay div#quote2 p {
+      font-size: 11px;
+      font-family: 'Open Sans'; }
+      div#whatpeoplesay div#quote2 p span {
+        font-size: 13px; }
 
 /*# sourceMappingURL=praise.css.map */
