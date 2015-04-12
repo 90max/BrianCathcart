@@ -20,10 +20,10 @@
 			}
 			div#quote1{
 					width: 14.1em;
-					height: 13em;
+					height: 16em;
 					float: left;
 					border-radius: 3px;
-					padding-top: 1em;
+					padding: .7em;
 					background-color: #d1d1d1;
 					margin-bottom: 6px;
 					margin-right: 0em;
@@ -39,19 +39,20 @@
 			}
 			div#quote2{
 					width: 14.1em;
-					height: 13.67em;
+					height: 10.67em;
 					float: left;
 					border-radius: 3px;
-					padding-top: 1em;
+					padding: .7em;
 					background-color: #d1d1d1;
 					margin-bottom: 6px;
 					margin-right: 0em;
 					margin-left: 12px;
+
 					p{
 						font-size: 11px;
 						font-family: 'Open Sans';
 						span{
-							font-size: 13px;
+							font-size: 12px;
 
 						}
 					}
