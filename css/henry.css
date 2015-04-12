@@ -22,12 +22,14 @@ div#hpimg img {
   height: 300px;
   border-radius: 200px;
   padding-bottom: 15px;
-  padding-bottom: 5px; }
+  padding-bottom: 5px;
+  margin-bottom: 20px; }
 
 div#percy {
   width: 850px;
   margin: 0 auto; }
   div#percy p {
+    text-indent: 10px;
     font-family: 'Open Sans';
     font-size: 15px;
     text-align: justify; }
@@ -37,8 +39,7 @@ div#percy {
       padding-bottom: 10px;
       font-weight: 600;
       text-align: justify;
-      padding-right: 45px;
-      margin-bottom: 20px; }
+      padding-right: 45px; }
 
 ul#retailers {
   margin-left: 10.7em !important; }
