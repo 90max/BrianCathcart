@@ -20,19 +20,31 @@ h2#title{
 	box-shadow: .5px .5px .5px .5px;
 }
 
+div#hpimg{
+	margin: 0 auto;
+	img{
+		height: 300px;
+		border-radius: 50px;
+		padding-bottom: 15px;
+		padding-bottom: 5px;
+	}
+}
+
 div#percy{
 	width: 850px;
 	margin: 0 auto;
 	p{
 		font-family: 'Open Sans';
 		font-size: 15px;
+		text-align: justify;
 
 	}
-	ul{
+	ol{
 		list-style: square;
 		li{
 			padding-bottom: 10px;
 			font-weight: 600;
+			text-align: justify;
 		}
 	}
 }
