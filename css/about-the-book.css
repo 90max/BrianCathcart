@@ -26,6 +26,7 @@ ol#facts {
     padding-bottom: 7px; }
 
 div#bookmark img {
+  display: none;
   width: 6em;
   height: 17em;
   margin-bottom: -31em;
@@ -62,6 +63,10 @@ div#infantryholder {
 
 img#scot {
   width: 1100px;
-  margin-left: 3.5em; }
+  display: block;
+  margin: auto; }
+
+ul#retailers {
+  padding-left: 0 !important; }
 
 /*# sourceMappingURL=about-the-book.css.map */
