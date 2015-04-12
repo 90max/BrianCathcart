@@ -17,7 +17,7 @@ ol#facts {
   padding-top: 25px;
   padding-bottom: 25px;
   width: 750px;
-  margin-left: 10em;
+  margin-left: 26em;
   box-shadow: .5px .5px .5px .5px; }
   ol#facts li {
     font-family: 'Open Sans';
@@ -44,6 +44,6 @@ h2#title {
   box-shadow: .5px .5px .5px .5px; }
 
 img#trumpet {
-  margin-left: 10em; }
+  margin-left: 8.4em; }
 
 /*# sourceMappingURL=about-the-book.css.map */
