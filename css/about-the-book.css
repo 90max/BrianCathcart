@@ -49,13 +49,15 @@ img#trumpet {
 img#infantry {
   height: 280px;
   float: left;
-  margin-left: 3.7em;
-  margin-top: 2.8em;
+  margin-top: 3.8em;
   background-color: #e8e8e8; }
 
 div#infantryholder {
-  height: 320px;
-  width: 363px;
-  background-color: #e8e8e8; }
+  height: 388px;
+  width: 364px;
+  background-color: #e8e8e8;
+  float: left;
+  margin-left: 4em;
+  margin-top: .7em; }
 
 /*# sourceMappingURL=about-the-book.css.map */
