@@ -138,6 +138,13 @@ div#wrapper div#box {
 div#wrapper div.story {
   width: 860px;
   margin: 0 auto;
-  font-family: 'Open Sans'; }
+  font-family: 'Open Sans';
+  text-align: justify; }
+  div#wrapper div.story img#books {
+    height: 300px;
+    float: left;
+    margin-right: 25px;
+    padding-top: 10px;
+    box-shadow: 1px 1px 1px; }
 
 /*# sourceMappingURL=rothschild.css.map */

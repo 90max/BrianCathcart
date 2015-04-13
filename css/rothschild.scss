@@ -197,5 +197,13 @@ div#wrapper{
 		width: 860px;
 		margin: 0 auto;
 		font-family: 'Open Sans';
+		text-align: justify;
+		img#books{
+			height: 300px;
+			float: left;
+			margin-right: 25px;
+			padding-top: 10px;
+			box-shadow: 1px 1px 1px;
+		}
 	}
 }
