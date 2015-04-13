@@ -19,6 +19,8 @@ h2#title {
 p#morestories-intro {
   width: 930px;
   margin: 0 auto;
+  margin-left: 12.5em;
+  font-weight: bold;
   font-family: 'Open Sans'; }
 
 ul.more-stories {
