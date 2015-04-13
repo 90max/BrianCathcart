@@ -135,5 +135,9 @@ div#wrapper div#box {
   text-align: justify;
   margin-top: 2em;
   padding-left: 1.4em; }
+div#wrapper div.story {
+  width: 900px;
+  margin: 0 auto;
+  font-family: 'Open Sans'; }
 
 /*# sourceMappingURL=rothschild.css.map */
