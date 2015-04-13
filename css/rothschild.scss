@@ -36,9 +36,15 @@ div#wrapper{
 			padding-left: 0;
 			margin-left: 20px;
 			margin-bottom: 0;
-			font-family: oswaldRegular;
+			font-family: oswaldLight;
 			li{
 				display: inline;
+				a{
+					color: black;
+				}
+			}
+			li#back{
+				font-family: oswaldRegular;
 			}
 		}
 		

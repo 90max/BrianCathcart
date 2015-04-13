@@ -27,9 +27,13 @@ div#wrapper div#nav {
     padding-left: 0;
     margin-left: 20px;
     margin-bottom: 0;
-    font-family: oswaldRegular; }
+    font-family: oswaldLight; }
     div#wrapper div#nav ul.shortcut li {
       display: inline; }
+      div#wrapper div#nav ul.shortcut li a {
+        color: black; }
+    div#wrapper div#nav ul.shortcut li#back {
+      font-family: oswaldRegular; }
 div#wrapper div.scroller-holder {
   margin-bottom: 1em;
   margin-left: 1.45em;
