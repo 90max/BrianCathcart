@@ -1,3 +1,9 @@
+img#crown {
+  height: 3.5em;
+  display: block;
+  margin: auto;
+  margin-bottom: 1em; }
+
 div#bookmark img {
   width: 6em;
   height: 17em;
