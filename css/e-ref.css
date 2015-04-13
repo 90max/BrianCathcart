@@ -16,6 +16,13 @@ h2#title {
   margin-bottom: 15px;
   box-shadow: .5px .5px .5px .5px; }
 
+p#theintro {
+  width: 900px;
+  margin: auto;
+  margin-left: 15em;
+  font-family: 'Open Sans';
+  font-size: 16px; }
+
 div.col-md-3.one {
   z-index: 1;
   margin-left: 11em;
