@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some lessons from Waterloo"
-date:   2015-06-03 15:10:46
+date:   2015-02-03 15:10:46
 categories: jekyll update
 ---
 Here is a <a href='https://www.youtube.com/watch?v=pHoX-gnMvgs&list=PLSTJ8CQ1p25ACLRXHt4PEUJBKMQP-94DW&index=11'>link</a> to a video of a lecture I gave about my research at University College London last 
