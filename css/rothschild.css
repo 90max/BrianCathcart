@@ -4,149 +4,147 @@
 @font-face {
   font-family: oswaldRegular;
   src: url(/BrianCathcart/fonts/Oswald-Regular.ttf); }
-div#wrapper {
-  height: 100vh; }
-  div#wrapper div#nav {
-    width: 900px;
-    /*height: 75px;*/
-    height: 85px;
-    margin: 0 auto; }
-    div#wrapper div#nav h1 {
-      padding-bottom: .5em;
-      margin-top: 0;
-      padding-top: .5em;
-      margin-left: 20px;
-      font-family: oswaldRegular;
-      margin-bottom: 0; }
-      div#wrapper div#nav h1 a {
-        color: #757272; }
-      div#wrapper div#nav h1 a#black {
-        color: black; }
-      div#wrapper div#nav h1 span {
-        color: #757272;
-        font-family: oswaldLight; }
-    div#wrapper div#nav ul.shortcut {
-      padding-left: 0;
-      margin-left: 20px;
-      margin-bottom: 0;
+div#wrapper div#nav {
+  width: 900px;
+  /*height: 75px;*/
+  height: 85px;
+  margin: 0 auto; }
+  div#wrapper div#nav h1 {
+    padding-bottom: .5em;
+    margin-top: 0;
+    padding-top: .5em;
+    margin-left: 20px;
+    font-family: oswaldRegular;
+    margin-bottom: 0; }
+    div#wrapper div#nav h1 a {
+      color: #757272; }
+    div#wrapper div#nav h1 a#black {
+      color: black; }
+    div#wrapper div#nav h1 span {
+      color: #757272;
       font-family: oswaldLight; }
-      div#wrapper div#nav ul.shortcut li {
-        display: inline;
-        padding-right: 2px; }
-        div#wrapper div#nav ul.shortcut li a {
-          color: black; }
-      div#wrapper div#nav ul.shortcut li#back {
-        font-family: oswaldRegular; }
-  div#wrapper div.scroller-holder {
-    margin-bottom: 1em;
-    margin-left: 1.45em;
-    border-bottom: 1px solid #999999; }
-    div#wrapper div.scroller-holder img.scroller {
-      height: 3.5em;
-      display: block;
-      margin: auto;
-      margin-bottom: 1em; }
-  div#wrapper div.intro {
-    padding-top: 1em;
-    width: 900px;
-    margin: 0 auto;
-    overflow: hidden;
-    font-family: 'Open Sans'; }
-    div#wrapper div.intro h4 {
-      margin-left: 20px; }
-    div#wrapper div.intro p {
-      margin-left: 20px;
-      text-align: justify; }
-  div#wrapper div.intro-edit {
-    width: 900px;
-    height: 75px;
-    margin: 0 auto;
-    overflow: hidden;
-    font-family: 'Open Sans'; }
-    div#wrapper div.intro-edit h4 {
-      margin-left: 20px; }
-    div#wrapper div.intro-edit p {
-      margin-left: 20px; }
-  div#wrapper div.row {
-    text-align: center; }
-    div#wrapper div.row ul {
-      margin-bottom: 0;
-      display: inline-flex;
-      height: 295px;
-      list-style-type: none; }
-      div#wrapper div.row ul li {
-        font-size: 10px;
-        text-align: justify;
-        margin-right: 2em;
-        height: 290px;
-        width: 280px;
-        overflow: hidden; }
-        div#wrapper div.row ul li p {
-          font-weight: 600; }
-        div#wrapper div.row ul li img {
-          height: 305px;
-          /*height: 313px;*/ }
-      div#wrapper div.row ul li:hover {
-        cursor: pointer; }
-        div#wrapper div.row ul li:hover img {
-          opacity: .8; }
-  div#wrapper div.title {
-    padding-bottom: 3em;
-    text-align: center; }
-    div#wrapper div.title ul {
-      margin-bottom: 0;
-      display: inline-flex;
-      height: 15px;
-      list-style-type: none; }
-      div#wrapper div.title ul li {
-        color: #888888;
-        font-weight: 600;
-        font-family: 'Open Sans';
-        margin-right: 2em;
-        height: 15px;
-        width: 270px; }
-  div#wrapper div.read-the-myth {
-    height: 325px;
-    overflow: auto;
-    width: 900px;
-    margin: 0 auto;
-    text-align: justify;
-    margin-top: 2em;
-    padding-left: 1.5em; }
-  div#wrapper div.roworth {
-    height: 325px;
-    overflow: auto;
-    width: 900px;
-    margin: 0 auto;
-    text-align: justify;
-    margin-top: 2em;
-    padding-left: 1.5em; }
-  div#wrapper div.urban-legends {
-    height: 325px;
-    overflow: auto;
-    width: 900px;
-    margin: 0 auto;
-    text-align: justify;
-    margin-top: 2em;
-    padding-left: 1.5em; }
-  div#wrapper div#box {
-    max-height: 325px;
-    overflow: auto;
-    width: 900px;
-    margin: 0 auto;
-    text-align: justify;
-    margin-top: 2em;
-    padding-left: 1.4em; }
-  div#wrapper div.story {
-    width: 860px;
-    margin: 0 auto;
-    font-family: 'Open Sans';
+  div#wrapper div#nav ul.shortcut {
+    padding-left: 0;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-family: oswaldLight; }
+    div#wrapper div#nav ul.shortcut li {
+      display: inline;
+      padding-right: 2px; }
+      div#wrapper div#nav ul.shortcut li a {
+        color: black; }
+    div#wrapper div#nav ul.shortcut li#back {
+      font-family: oswaldRegular; }
+div#wrapper div.scroller-holder {
+  margin-bottom: 1em;
+  margin-left: 1.45em;
+  border-bottom: 1px solid #999999; }
+  div#wrapper div.scroller-holder img.scroller {
+    height: 3.5em;
+    display: block;
+    margin: auto;
+    margin-bottom: 1em; }
+div#wrapper div.intro {
+  padding-top: 1em;
+  width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: 'Open Sans'; }
+  div#wrapper div.intro h4 {
+    margin-left: 20px; }
+  div#wrapper div.intro p {
+    margin-left: 20px;
     text-align: justify; }
-    div#wrapper div.story img#books {
-      height: 300px;
-      float: left;
-      margin-right: 25px;
-      padding-top: 10px;
-      box-shadow: 1px 1px 1px; }
+div#wrapper div.intro-edit {
+  width: 900px;
+  height: 75px;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: 'Open Sans'; }
+  div#wrapper div.intro-edit h4 {
+    margin-left: 20px; }
+  div#wrapper div.intro-edit p {
+    margin-left: 20px; }
+div#wrapper div.row {
+  text-align: center; }
+  div#wrapper div.row ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 295px;
+    list-style-type: none; }
+    div#wrapper div.row ul li {
+      font-size: 10px;
+      text-align: justify;
+      margin-right: 2em;
+      height: 290px;
+      width: 280px;
+      overflow: hidden; }
+      div#wrapper div.row ul li p {
+        font-weight: 600; }
+      div#wrapper div.row ul li img {
+        height: 305px;
+        /*height: 313px;*/ }
+    div#wrapper div.row ul li:hover {
+      cursor: pointer; }
+      div#wrapper div.row ul li:hover img {
+        opacity: .8; }
+div#wrapper div.title {
+  padding-bottom: 3em;
+  text-align: center; }
+  div#wrapper div.title ul {
+    margin-bottom: 0;
+    display: inline-flex;
+    height: 15px;
+    list-style-type: none; }
+    div#wrapper div.title ul li {
+      color: #888888;
+      font-weight: 600;
+      font-family: 'Open Sans';
+      margin-right: 2em;
+      height: 15px;
+      width: 270px; }
+div#wrapper div.read-the-myth {
+  height: 325px;
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.5em; }
+div#wrapper div.roworth {
+  height: 325px;
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.5em; }
+div#wrapper div.urban-legends {
+  height: 325px;
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.5em; }
+div#wrapper div#box {
+  max-height: 325px;
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 2em;
+  padding-left: 1.4em; }
+div#wrapper div.story {
+  width: 860px;
+  margin: 0 auto;
+  font-family: 'Open Sans';
+  text-align: justify; }
+  div#wrapper div.story img#books {
+    height: 300px;
+    float: left;
+    margin-right: 25px;
+    padding-top: 10px;
+    box-shadow: 1px 1px 1px; }
 
 /*# sourceMappingURL=rothschild.css.map */
