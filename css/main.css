@@ -24,7 +24,7 @@ body {
     
     		}*/ }
     body div#wrapper span.news {
-      text-transform: capitalize;
+      text-transform: uppercase;
       font-style: italic; }
 
 /*# sourceMappingURL=main.css.map */
