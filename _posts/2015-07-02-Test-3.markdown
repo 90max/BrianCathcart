@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Lorem ipsum dolor sit amet"
+title:  "Some lessons from Waterloo"
 date:   2015-06-03 15:10:46
 categories: jekyll update
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis eros elit. Ut non rutrum nibh, ac pellentesque lorem. Donec fermentum condimentum urna, in consequat velit ornare eget.
-
- Maecenas in ornare nisi, non tempor nulla. Aenean tortor nisl, ultricies non purus a, tincidunt feugiat purus. In non purus vehicula, fermentum nulla vel, bibendum nisi. Morbi elementum sapien tellus, nec sodales sem ultrices sit amet
+Here is a <a href='https://www.youtube.com/watch?v=pHoX-gnMvgs&list=PLSTJ8CQ1p25ACLRXHt4PEUJBKMQP-94DW&index=11'>link</a> to a video of a lecture I gave about my research at University College London last 
+November.

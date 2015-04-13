@@ -1,9 +1,21 @@
 ---
 layout: post
-title:  "Lorem ipsum dolor sit amet"
+title:  "Welcome to the site"
 date:   2015-06-03 15:10:46
 categories: jekyll update
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis eros elit. Ut non rutrum nibh, ac pellentesque lorem. Donec fermentum condimentum urna, in consequat velit ornare eget.
+Welcome to this new website. There’s a lot to see and read here and I hope you find it interesting. To be frank, there are two objectives: to get you interested enough to order the book (go to the Faber, Amazon and Waterstone's links) and to provide addition information to those who have read it.
 
- Maecenas in ornare nisi, non tempor nulla. Aenean tortor nisl, ultricies non purus a, tincidunt feugiat purus. In non purus vehicula, fermentum nulla vel, bibendum nisi. Morbi elementum sapien tellus, nec sodales sem ultrices sit amet
+You may well be wondering how Hugh Grant comes to be involved. I know him from my work with Hacked Off (see http://hackinginquiry.org), the campaign for a free and accountable press. It occurred to me that he would make a terrific Duke of Wellington and so I asked if he would record a reading of the Waterloo Dispatch. Very kindly, he agreed, and the result is terrific.
+
+The full reading, which runs to about 15 minutes, will be released in a couple of weeks. It is worth waiting for.
+
+This year is the bicentenary of the battle of Waterloo and there are a lot of good books about it out there, but this is the only one that looks at the angle of how the news t ravelled, and I think the story has things to say to a generation of people fascinated by communication and information.
+
+Things moves slowly in 1815 – in some ways comically so – but that allows us to see what happens step by step, and I have found the results observing.
+
+The story is also full of incident, drama and remarkable characters. Some of these characters, such as Wellington himself and Lord Castlereigh, are well known. Others, such as the mysterious Mr C of Dover, and the reckless Daniel Sutton, and the Knight of Kerry, are not famous. They make a great mix.
+
+And then there is the Rothschild myth, an unsavoury legacy from the anti-Semitic past that is explored a good deal here. To get a real picture of the evidence and the arguments you need to read the book, but I hope there is enough on the pages here to get you intrigued.
+
+If you have comments, or if you have relevant information that adds to the picture, or if you have found a mistake you would like to see corrected, please leave a message in the Contacts page.
