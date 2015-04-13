@@ -23,10 +23,11 @@ div#hpimg img {
   border-radius: 200px;
   padding-bottom: 15px;
   padding-bottom: 5px;
-  margin-bottom: 20px; }
+  margin-bottom: 5px; }
 div#hpimg p#copyright {
   font-size: 9px;
-  text-align: center; }
+  text-align: center;
+  margin-right: 5em; }
 
 div#percy {
   width: 850px;
