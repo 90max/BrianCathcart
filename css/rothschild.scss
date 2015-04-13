@@ -19,6 +19,7 @@ div#wrapper{
 			padding-top: .5em;
 			margin-left: 20px;
 			font-family: oswaldRegular;
+			margin-bottom: 0;
 			a{
 				color: #757272;
 			}
@@ -33,6 +34,9 @@ div#wrapper{
 		}
 		ul.shortcut{
 			padding-left: 0;
+			margin-left: 20px;
+			margin-bottom: 0;
+			font-family: oswaldRegular;
 			li{
 				display: inline;
 			}

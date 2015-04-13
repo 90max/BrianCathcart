@@ -14,7 +14,8 @@ div#wrapper div#nav {
     margin-top: 0;
     padding-top: .5em;
     margin-left: 20px;
-    font-family: oswaldRegular; }
+    font-family: oswaldRegular;
+    margin-bottom: 0; }
     div#wrapper div#nav h1 a {
       color: #757272; }
     div#wrapper div#nav h1 a#black {
@@ -23,7 +24,10 @@ div#wrapper div#nav {
       color: #757272;
       font-family: oswaldLight; }
   div#wrapper div#nav ul.shortcut {
-    padding-left: 0; }
+    padding-left: 0;
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-family: oswaldRegular; }
     div#wrapper div#nav ul.shortcut li {
       display: inline; }
 div#wrapper div.scroller-holder {
