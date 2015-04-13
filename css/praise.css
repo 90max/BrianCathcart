@@ -19,7 +19,7 @@ div#whatpeoplesay {
     padding: 15px; }
   div#whatpeoplesay div#quote1 {
     width: 14.1em;
-    height: 16em;
+    height: 14.5em;
     float: left;
     border-radius: 3px;
     padding: .7em;
@@ -28,24 +28,29 @@ div#whatpeoplesay {
     margin-right: 0em;
     margin-left: 12px; }
     div#whatpeoplesay div#quote1 p {
+      font-weight: bold;
       font-size: 11px;
       font-family: 'Open Sans'; }
       div#whatpeoplesay div#quote1 p span {
+        font-weight: normal;
         font-size: 13px; }
   div#whatpeoplesay div#quote2 {
     width: 14.1em;
-    height: 10.67em;
+    height: 12.16em;
     float: left;
     border-radius: 3px;
     padding: .7em;
+    padding-top: 20px;
     background-color: #d1d1d1;
     margin-bottom: 6px;
     margin-right: 0em;
     margin-left: 12px; }
     div#whatpeoplesay div#quote2 p {
+      font-weight: bold;
       font-size: 11px;
       font-family: 'Open Sans'; }
       div#whatpeoplesay div#quote2 p span {
+        font-weight: normal;
         font-size: 12px; }
 
 /*# sourceMappingURL=praise.css.map */
