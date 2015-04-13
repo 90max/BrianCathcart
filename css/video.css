@@ -2,7 +2,8 @@ div#dispatchvideo {
   height: 650px;
   background-color: #d1d1d1;
   margin-top: 4.5em;
-  margin-right: 30em; }
+  margin-right: 30em;
+  margin-left: 1.9em; }
   div#dispatchvideo div#the-dispatch {
     background-color: #d1d1d1;
     margin: 0 auto;
