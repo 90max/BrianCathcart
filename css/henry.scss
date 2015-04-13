@@ -30,6 +30,10 @@ div#hpimg{
 		padding-bottom: 5px;
 		margin-bottom: 20px;
 	}
+	p#copyright{
+		font-size: 9px;
+		text-align: center;
+	}
 }
 
 div#percy{
@@ -42,6 +46,7 @@ div#percy{
 		text-align: justify;
 
 	}
+
 	ol{
 		list-style: square;
 		li{
@@ -52,8 +57,9 @@ div#percy{
 			
 		}
 	}
-}
 
-ul#retailers{
+	ul#retailers{
 	margin-left: 10.7em !important;
 }
+}
+

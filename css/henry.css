@@ -24,6 +24,9 @@ div#hpimg img {
   padding-bottom: 15px;
   padding-bottom: 5px;
   margin-bottom: 20px; }
+div#hpimg p#copyright {
+  font-size: 9px;
+  text-align: center; }
 
 div#percy {
   width: 850px;
@@ -40,8 +43,7 @@ div#percy {
       font-weight: 600;
       text-align: justify;
       padding-right: 45px; }
-
-ul#retailers {
-  margin-left: 10.7em !important; }
+  div#percy ul#retailers {
+    margin-left: 10.7em !important; }
 
 /*# sourceMappingURL=henry.css.map */
