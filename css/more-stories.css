@@ -34,6 +34,16 @@ ul.more-stories {
   ul.more-stories p.smaller {
     font-size: 13px;
     color: #8d8d8e; }
+  ul.more-stories li img#yacht {
+    margin: 0 auto;
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em; }
+  ul.more-stories li img#bridge {
+    margin: 0 auto;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em; }
 
 ul#retailers {
   margin-left: 9em !important; }
