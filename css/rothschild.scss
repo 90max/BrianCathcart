@@ -31,10 +31,10 @@ div#wrapper{
 			}
 
 		}
-		ul#shortcut{
-			display: inline-block;
+		ul.shortcut{
+			padding-left: 0;
 			li{
-				display: block;
+				display: inline;
 			}
 		}
 		

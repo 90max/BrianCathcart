@@ -22,10 +22,10 @@ div#wrapper div#nav {
     div#wrapper div#nav h1 span {
       color: #757272;
       font-family: oswaldLight; }
-  div#wrapper div#nav ul#shortcut {
-    display: inline-block; }
-    div#wrapper div#nav ul#shortcut li {
-      display: block; }
+  div#wrapper div#nav ul.shortcut {
+    padding-left: 0; }
+    div#wrapper div#nav ul.shortcut li {
+      display: inline; }
 div#wrapper div.scroller-holder {
   margin-bottom: 1em;
   margin-left: 1.45em;
