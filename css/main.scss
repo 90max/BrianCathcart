@@ -3,7 +3,11 @@ body{
 	div#wrapper{
 		background-color: white;
 		width: 1200px;
-		margin: 0 auto;		
+		margin: 0 auto;	
+		span.news{
+			text-transform: capitalize;
+			font-style: italic;
+		}	
 
 
 

@@ -23,5 +23,8 @@ body {
     			}
     
     		}*/ }
+    body div#wrapper span.news {
+      text-transform: capitalize;
+      font-style: italic; }
 
 /*# sourceMappingURL=main.css.map */
