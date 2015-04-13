@@ -1,8 +1,14 @@
 div#bookmark img {
+  display: none;
   width: 6em;
   height: 17em;
   margin-bottom: -31em;
   margin-left: 5em; }
+
+img#scot {
+  width: 1200px;
+  display: block;
+  margin: auto; }
 
 h2#title {
   text-transform: uppercase;
