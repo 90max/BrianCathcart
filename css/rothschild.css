@@ -29,7 +29,8 @@ div#wrapper div#nav {
     margin-bottom: 0;
     font-family: oswaldLight; }
     div#wrapper div#nav ul.shortcut li {
-      display: inline; }
+      display: inline;
+      padding-right: 2px; }
       div#wrapper div#nav ul.shortcut li a {
         color: black; }
     div#wrapper div#nav ul.shortcut li#back {
