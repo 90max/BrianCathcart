@@ -21,6 +21,12 @@ div#hist {
   margin: 0 auto; }
   div#hist p {
     font-family: 'Open Sans'; }
+  div#hist img#chronicle {
+    margin-bottom: 15px;
+    height: 290px; }
+  div#hist img#press {
+    height: 290px;
+    margin-left: .7em; }
 
 ul#retailers {
   margin-left: 9em !important; }
