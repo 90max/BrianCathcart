@@ -37,7 +37,7 @@ div#thedispatch {
   box-shadow: 1px 1px 1px 1px;
   margin-bottom: 2em; }
   div#thedispatch span {
-    font-style: italic; }
+    /*font-style: italic;*/ }
   div#thedispatch span.anchor {
     font-style: normal;
     font-weight: 600; }

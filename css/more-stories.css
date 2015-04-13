@@ -26,7 +26,7 @@ p#morestories-intro {
 ul.more-stories {
   width: 930px;
   margin: 0 auto;
-  list-style: square;
+  list-style: none;
   font-family: 'Open Sans'; }
   ul.more-stories p {
     font-size: 15px;
