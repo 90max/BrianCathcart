@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Southhampton's Wellington Congress"
+title:  "Southampton's Wellington Congress"
 date:   2015-02-03 15:10:46
 categories: jekyll update
 ---
