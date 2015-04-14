@@ -4,7 +4,7 @@ title:  "Welcome to the site"
 date:   2015-04-13 15:10:46
 categories: jekyll update
 ---
-Welcome to this new website. There’s a lot to see and read here and I hope you find it interesting. To be frank, there are two objectives: to get you interested enough to order the book (go to the Faber, Amazon and Waterstone's links) and to provide addition information to those who have read it.
+Welcome to this new website. There’s a lot to see and read here and I hope you find it interesting. To be frank, there are two objectives: to get you interested enough to order the book (go to the Faber, Amazon and Waterstone's links) and to provide additional information to those who have read it.
 
 You may well be wondering how Hugh Grant comes to be involved. I know him from my work with Hacked Off (see http://hackinginquiry.org), the campaign for a free and accountable press. It occurred to me that he would make a terrific Duke of Wellington and so I asked if he would record a reading of the Waterloo Dispatch. Very kindly, he agreed, and the result is terrific.
 
