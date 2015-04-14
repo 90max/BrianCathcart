@@ -64,6 +64,11 @@
     font-family: serif;
     color: #00456e;
     font-weight: 800; }
+  .nav img#facebook {
+    float: right;
+    height: 25px;
+    margin-top: -3.8em;
+    margin-right: .4em; }
   .nav div#currentdate {
     text-align: center;
     padding-bottom: 1em; }
