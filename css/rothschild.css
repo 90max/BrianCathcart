@@ -1,9 +1,9 @@
 @font-face {
   font-family: oswaldLight;
-  src: url(/BrianCathcart/fonts/Oswald-Light.ttf); }
+  src: url(/fonts/Oswald-Light.ttf); }
 @font-face {
   font-family: oswaldRegular;
-  src: url(/BrianCathcart/fonts/Oswald-Regular.ttf); }
+  src: url(/fonts/Oswald-Regular.ttf); }
 div#wrapper div#nav {
   width: 900px;
   /*height: 75px;*/
