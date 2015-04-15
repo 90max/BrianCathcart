@@ -13,7 +13,8 @@ div#dispatchvideo {
     div#dispatchvideo div#the-dispatch div#the-dispatch-inner {
       width: 800px;
       height: inherit;
-      margin: 0 auto;
-      background-color: #d1d1d1; }
+      margin: 0 auto; }
+      div#dispatchvideo div#the-dispatch div#the-dispatch-inner iframe {
+        margin-top: 10px; }
 
 /*# sourceMappingURL=video.css.map */
