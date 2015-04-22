@@ -17,8 +17,7 @@ ol#facts {
   padding-top: 25px;
   padding-bottom: 25px;
   width: 750px;
-  margin-left: 26em;
-  box-shadow: .5px .5px .5px .5px; }
+  margin-left: 26em; }
   ol#facts li {
     font-family: 'Open Sans';
     display: block;
@@ -50,13 +49,11 @@ img#trumpet {
 img#infantry {
   height: 280px;
   float: left;
-  margin-top: 3.8em;
   background-color: #e8e8e8; }
 
 div#infantryholder {
   height: 388px;
   width: 364px;
-  background-color: #e8e8e8;
   float: left;
   margin-left: 4em;
   margin-top: .7em; }
