@@ -1,11 +1,12 @@
 ---
 layout: post
 categories: jekyll update
+published: true
 ---
 
 London locations in the story of a great night
 
-I gave a talk about London and the news from Waterloo the other night to an audience of Blue Badge guides, the registered and distinctly learned elite of British tourist guides. You can read about them here: http://www.britainsbestguides.org
+I gave a talk about London and the news from Waterloo the other night to an audience of Blue Badge guides, the registered and distinctly learned elite of British tourist guides. You can read about them here: <a href='http://www.britainsbestguides.org'>http://www.britainsbestguides.org</a>
 
 My aim, besides telling the story of Major Percy’s arriving in town with the Duke of Wellington’s dispatch (which you can read about in the book), was to highlight the principal London locations that were involved.
 
@@ -19,5 +20,4 @@ After a tense wait Percy turned up with a large and excited crowd in tow. The mi
 
 For many years the role of 44 Grosvenor Square in these historic events was celebrated in the presence of a pub called The Waterloo Despatch in the mews behind. That has long gone, and so, sadly, has number 44 itself. The building still stood in 1965, when the 150th anniversary of its famous moment was marked, but by then it was the last private residence in the whole square, and three years later it was demolished.
 
-Today the site is occupied by the Millennium Mayfair Hotel, but the history of the location is not quite forgotten. Inside, there is a function room called the Waterloo Room, decked with appropriate art including paintings of both Wellington and Napoleon. The building’s role will be marked this June in the activities of the New Waterloo Dispatch. You can read about that here: http://www.nam.ac.uk/waterloo200/about/the-new-waterloo-dispatch-2015/
-
+Today the site is occupied by the Millennium Mayfair Hotel, but the history of the location is not quite forgotten. Inside, there is a function room called the Waterloo Room, decked with appropriate art including paintings of both Wellington and Napoleon. The building’s role will be marked this June in the activities of the New Waterloo Dispatch. You can read about that here: <a href='http://www.nam.ac.uk/waterloo200/about/the-new-waterloo-dispatch-2015/'>http://www.nam.ac.uk/waterloo200/about/the-new-waterloo-dispatch-2015/</a>
