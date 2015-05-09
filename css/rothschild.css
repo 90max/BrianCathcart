@@ -78,7 +78,8 @@ div#wrapper div.row {
       margin-right: 2em;
       height: 290px;
       width: 280px;
-      overflow: hidden; }
+      overflow: hidden;
+      display: inline-block; }
       div#wrapper div.row ul li p {
         font-weight: 600; }
       div#wrapper div.row ul li img {
@@ -102,7 +103,8 @@ div#wrapper div.title {
       font-family: 'Open Sans';
       margin-right: 2em;
       height: 15px;
-      width: 270px; }
+      width: 270px;
+      display: inline-block; }
 div#wrapper div.read-the-myth {
   height: 325px;
   overflow: auto;
