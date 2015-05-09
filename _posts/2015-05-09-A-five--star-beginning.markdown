@@ -1,10 +1,11 @@
 ---
 layout: post
+title:  "A five-star beginning"
 categories: jekyll update
 published: true
 ---
 
-So, while many of you have been thinking of other things, my book has come out – and to critical acclaim. Or more precisely to a review in the Daily Telegraph that I am pleased to say gives it five stars. You can read it here: <a href='http://www.telegraph.co.uk/culture/books/bookreviews/11558359/The-News-from-Waterloo-the-Race-to-Tell-Britain-ofWellingtons-Victory-by-Brian-Cathcart.html'>http://www.telegraph.co.uk/culture/books/bookreviews/11558359/The-News-from-Waterloo-the-Race-to-Tell-Britain-ofWellingtons-Victory-by-Brian-Cathcart.html</a>.
+So, while many of you have been thinking of other things, my book has come out – and to critical acclaim. Or more precisely to a review in the Daily Telegraph that I am pleased to say gives it five stars. You can read it <a href='http://www.telegraph.co.uk/culture/books/bookreviews/11558359/The-News-from-Waterloo-the-Race-to-Tell-Britain-ofWellingtons-Victory-by-Brian-Cathcart.html'>here.</a>
 
 A five-star review has also appeared on Amazon, and it's not by me but by a regular reviewer there who goes by the name of 'oldbiker'. Here: <a href='http://www.amazon.co.uk/dp/0571315259'>http://www.amazon.co.uk/dp/0571315259</a> I have developed a sudden affection for old bikers everywhere. 
 
