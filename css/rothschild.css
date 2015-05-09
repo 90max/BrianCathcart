@@ -69,7 +69,7 @@ div#wrapper div.row {
   text-align: center; }
   div#wrapper div.row ul {
     margin-bottom: 0;
-    display: inline-flex;
+    /*display: inline-flex;*/
     height: 295px;
     list-style-type: none; }
     div#wrapper div.row ul li {
@@ -93,7 +93,7 @@ div#wrapper div.title {
   text-align: center; }
   div#wrapper div.title ul {
     margin-bottom: 0;
-    display: inline-flex;
+    /*display: inline-flex;*/
     height: 15px;
     list-style-type: none; }
     div#wrapper div.title ul li {
