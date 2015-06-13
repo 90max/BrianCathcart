@@ -6,7 +6,6 @@ published: true
 ---
 
 
-## The forgotten anti-war campaign of 1815
 In the week of the bicentenary of the Battle of Waterloo it is worth recalling that back in 1815 much of this country was opposed to making war against France and Napoleon. 
 
 Though after the victory it was hardly mentioned, the weeks before the battle had seen a bruising public debate in Britain about the justification for the conflict. There was a raucous public rally against it in central London; in the Commons no fewer than 92 MPs voted against the motion for war, while in the Lords the Duke of Wellington’s own brother argued that it was not legitimate. 
