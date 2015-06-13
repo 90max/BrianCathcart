@@ -1,4 +1,7 @@
 ---
+layout: post
+title:  "Two Nice Reviews"
+categories: jekyll update
 published: true
 ---
 
