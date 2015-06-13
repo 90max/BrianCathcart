@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## The forgotten anti-war campaign of 1815
 In the week of the bicentenary of the Battle of Waterloo it is worth recalling that back in 1815 much of this country was opposed to making war against France and Napoleon. 
